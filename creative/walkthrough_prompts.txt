@@ -1,27 +1,28 @@
 =========================================
-Walkthrough Screen 1 (Welcome)
+Walkthrough Screen 1 (Welcome — Add Your Baby)
 =========================================
 
-A friendly welcome illustration for mobile app onboarding,
-smiling character with welcome gesture and Flutter logo elements,
-flat illustration style, soft pastel colors with Material Blue #2196F3 accents,
+A heartwarming illustration of a stylized baby silhouette being gently held,
+flat illustration style, Warm Peach #FFB5A7 main color with Sky Mint #A8D8C4 accents,
 centered composition on solid pure white #FFFFFF background,
-portrait format 9:16 aspect ratio, clean modern aesthetic.
+portrait format 9:16 aspect ratio, tender family aesthetic.
+Conveys "register your baby and start preserving every precious first".
 
 Avoid: text, letters, words, gradients, colored backgrounds,
-complex scenes, photo-realistic elements.
+complex scenes, photo-realistic elements, gender-specific stereotypes (no overt pink/blue).
 
 Output: 375x667px PNG, mobile onboarding screen.
 
 =========================================
-Walkthrough Screen 2 (Features)
+Walkthrough Screen 2 (Milestone Cards)
 =========================================
 
-A feature showcase illustration for mobile app onboarding,
-icons representing key app development features arranged neatly (code, design, deploy),
-flat illustration style, Material Blue #2196F3 color scheme,
+A clean illustration of three stacked memory cards showing tiny milestone icons
+(a smiling face, a footprint, a hand wave),
+flat illustration style, Warm Peach #FFB5A7 with Sky Mint #A8D8C4 and Soft Sun #FFD391 accents,
 centered composition on solid pure white #FFFFFF background,
-portrait format 9:16 aspect ratio, clean informative design.
+portrait format 9:16 aspect ratio, scrapbook/album aesthetic.
+Conveys "tap to record any first — first smile, first step, first word".
 
 Avoid: text, letters, words, gradients, colored backgrounds,
 cluttered layouts, photo-realistic elements.
@@ -29,16 +30,17 @@ cluttered layouts, photo-realistic elements.
 Output: 375x667px PNG, mobile onboarding screen.
 
 =========================================
-Walkthrough Screen 3 (Get Started)
+Walkthrough Screen 3 (Share the Memory)
 =========================================
 
-A call-to-action illustration for mobile app onboarding,
-pointing hand or arrow with checkmark in Material Blue #2196F3,
-flat illustration style, vibrant Material Blue #2196F3 accents,
+A reassuring illustration of a single milestone card with a small heart icon,
+suggesting it's about to be shared as a beautiful auto-generated card,
+flat illustration style, Warm Peach #FFB5A7 main with Sky Mint #A8D8C4 heart accent,
 centered composition on solid pure white #FFFFFF background,
-portrait format 9:16 aspect ratio, encouraging energetic mood.
+portrait format 9:16 aspect ratio, joyful supportive mood.
+Conveys "auto-generate a beautiful card to share with family".
 
 Avoid: text, letters, words, gradients, colored backgrounds,
-complex elements, photo-realistic elements.
+complex elements, photo-realistic elements, social-media-logo references.
 
 Output: 375x667px PNG, mobile onboarding screen.

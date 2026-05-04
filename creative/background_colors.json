@@ -1,11 +1,15 @@
 {
-  "style": "simple",
+  "app_name": "baby-mile",
+  "category": "lifestyle-parenting",
+  "background_pattern": "warm-gradient",
+  "gradient_direction": "vertical",
   "colors": {
-    "primary": "#2196F3",
-    "gradient_start": "#89C4F4",
-    "gradient_end": "#2196F3"
+    "top": "#FFF9F5",
+    "bottom": "#FFB5A7"
   },
-  "gradient_angle": 0,
-  "noise_intensity": 0.0,
-  "overlay_opacity": 0.0
+  "size": {
+    "width": 1290,
+    "height": 2796
+  },
+  "rationale": "Cream White → Warm Peach の縦グラデで「赤ちゃんの思い出の温かさ・性別中立な家族トーン」を表現"
 }
