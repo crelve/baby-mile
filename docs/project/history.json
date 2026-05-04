@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "project_name": "baby-mile",
+      "created_at": "2026-05-04",
+      "source": "company/planning/specs/baby-mile-spec.md",
+      "mode": "spec-driven",
+      "idea_selection": {
+        "mode": "企画書モード（1案確定）",
+        "concept": "はじめて笑った日、忘れない。赤ちゃんの成長マイルストーン記録",
+        "category": "Lifestyle / Parenting",
+        "target": "0-3歳の子供を持つ25-40代の親"
+      },
+      "evaluation": {
+        "world_market": {
+          "score": 4,
+          "reason": "全世界の年間出生数は約1.3億人。0-3歳潜在ユーザーは数億人規模"
+        },
+        "japan_market": {
+          "score": 3,
+          "reason": "日本の年間出生数は約75万人で減少傾向だが、第一子親の課金意欲は高い"
+        },
+        "competition_weakness": {
+          "score": 4,
+          "reason": "ぴよログは日常記録、Baby Trackerは授乳、Tinybeansは写真共有。マイルストーン特化が空白"
+        },
+        "revenue_size": {
+          "score": 3,
+          "reason": "月額¥480 + 期間集中課金。家族共有でLTV伸びる"
+        },
+        "differentiation": {
+          "score": 4,
+          "reason": "マイルストーン特化 + チェックリスト + SNSカード自動生成の3点セット"
+        },
+        "implementation_cost": {
+          "score": 5,
+          "reason": "flutter_foundation 90%活用。マイルストーンDB+写真UIで5日"
+        },
+        "trend": {
+          "score": 4,
+          "reason": "親世代のSNSネイティブ化で記録系アプリの裾野が拡大"
+        }
+      },
+      "score": 3.8,
+      "decision": "GO",
+      "repo_path": "../baby-mile"
+    }
+  ]
+}

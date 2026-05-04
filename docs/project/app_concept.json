@@ -1,0 +1,61 @@
+{
+  "name": "baby-mile",
+  "display_name": "Baby Mile",
+  "appName": "Baby Mile",
+  "appNameLong": "Baby Mile — Baby Milestones & Memories",
+  "concept": "はじめて笑った日、忘れない。",
+  "catchphrase": "Capture every first. Treasure every milestone.",
+  "category": {
+    "primary": "Lifestyle",
+    "secondary": "Health & Fitness"
+  },
+  "target": {
+    "primary": "0-3歳の子供を持つ25-40代の親。「初めて」を美しく記録して残したい",
+    "secondary": [
+      "祖父母（孫の成長確認）",
+      "保育士・ベビーシッター（発達記録）",
+      "出産祝いで勧める友人"
+    ]
+  },
+  "valueProps": [
+    "50+の成長マイルストーンを写真+日付+メモで記録",
+    "月齢別発達チェックリスト（WHO/AAP指標準拠の目安）",
+    "SNS映えするマイルストーンカード自動生成",
+    "全マイルストーンの時系列タイムライン",
+    "家族（パートナー・祖父母）と共有"
+  ],
+  "monetization": {
+    "monthly_jpy": 480,
+    "monthly_usd": 2.99,
+    "annual_jpy": 6000,
+    "annual_usd": 34.99,
+    "lifetime_jpy": 4980,
+    "lifetime_usd": 29.99,
+    "freeTrial": "7 days",
+    "paywall": "after first 3 milestones recorded",
+    "ads": "banner + 1 interstitial/day at launch",
+    "premiumBenefits": [
+      "Unlimited milestones (free: 10)",
+      "All card design templates",
+      "Family share (up to 6)",
+      "PDF/4K export",
+      "Ad-free"
+    ]
+  },
+  "retentionTargets": {
+    "D1": 0.65,
+    "D7": 0.45,
+    "D30": 0.32
+  },
+  "markets": [
+    "Japan",
+    "US/CA/AU/UK",
+    "Germany",
+    "France",
+    "Brazil",
+    "Spanish-speaking LATAM"
+  ],
+  "releaseDateTarget": "2026-04-30",
+  "spec_source": "company/planning/specs/baby-mile-spec.md",
+  "repo_path": "../baby-mile"
+}
