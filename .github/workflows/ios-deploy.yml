@@ -272,6 +272,28 @@ jobs:
             bundle exec fastlane "$LANE"
           fi
 
+      - name: Add CEO to internal testing group
+        if: github.event_name != 'schedule' || steps.check-week.outputs.should_run == 'true'
+        continue-on-error: true
+        env:
+          ASC_KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_API_ISSUER_ID }}
+        run: |
+          BUNDLE_ID=$(grep 'PRODUCT_BUNDLE_IDENTIFIER' ios/Runner.xcodeproj/project.pbxproj | head -1 | sed 's/.*= "\(.*\)".*/\1/' | sed 's/\.RunnerTests//')
+          if [ -z "$BUNDLE_ID" ]; then
+            echo "⚠️ Could not detect bundle_id, skipping internal tester setup"
+            exit 0
+          fi
+
+          TESTER_SCRIPT="$HOME/kikiki/released/company/scripts/asc-add-internal-tester.py"
+          if [ ! -f "$TESTER_SCRIPT" ]; then
+            echo "⚠️ asc-add-internal-tester.py not found, skipping"
+            exit 0
+          fi
+
+          echo "👤 Adding CEO to internal testing group for $BUNDLE_ID"
+          CEO_EMAIL="keyynwa@gmail.com" python3 "$TESTER_SCRIPT" "$BUNDLE_ID"
+
       - name: Sync promotional text
         if: github.event_name != 'schedule' || steps.check-week.outputs.should_run == 'true'
         continue-on-error: true
