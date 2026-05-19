@@ -608,10 +608,10 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "6468dd81c937d67b1d01971826e1b831271f38e5"
+      resolved-ref: a31c6446325a4d7382d218ad0e420c30aaf46caa
       url: "https://github.com/crelve/flutter_foundation.git"
     source: git
-    version: "1.0.1"
+    version: "1.1.0"
   flutter_gen_core:
     dependency: transitive
     description:
