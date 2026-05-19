@@ -16,8 +16,8 @@
 - [x] `/release:step:02-brand-color-setup` - ブランドカラー設定
 - [x] `/release:step:03-app-icons-images-guide` - アイコン・画像作成
 - [x] `/release:step:04-screen-structure` - 画面構成設計
-- [ ] `/release:step:05-project-deploy` - デプロイ
-- [ ] `/release:step:06-setup-auto-implementation` - Issues作成・環境構築
+- [x] `/release:step:05-project-deploy` - デプロイ
+- [x] `/release:step:06-setup-auto-implementation` - Issues作成・環境構築
 - [ ] `/release:step:07-implement-issue` - Issue自動実装
 - [ ] `/release:step:08-requirements-check` - 要件適合性チェック
 - [ ] `/release:step:09-quality-rules-check` - 品質ルール確認
