@@ -111,4 +111,4 @@ app.*.map.json
 .fvm/
 
 # Serena
-.serena/cache
+.serena/cacheprevious_flavor.txt

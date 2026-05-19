@@ -9,7 +9,7 @@ class AppLocalizationsSk extends AppLocalizations {
   AppLocalizationsSk([String locale = 'sk']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsSk extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Nikdy nezabudnite na očné kvapky. Sledujte použitie, spravujte dátumy expirácie a dostávajte pripomienky v správnom čase.';
+      'Hneď uvidíte, kedy je celý váš globálny tím hore, a nájdete najlepší čas stretnutia jedným ťuknutím.';
 
   @override
-  String get mainIntroductionScreen => 'Vaše oči si zaslúžia starostlivosť';
+  String get mainIntroductionScreen => 'Keď sa svet stretáva';
 
   @override
   String get mainIntroductionContent =>
-      'Nastavte pripomienky pre očné kvapky, sledujte dátumy expirácie po otvorení a spravujte viac fľaštičiek.';
+      'Prekryte pracovné hodiny viacerých časových pásiem farebnými pásmi a hneď vidíte prieniky.';
 
   @override
   String get serviceBeginScreen => 'Začnite svoju cestu';
 
   @override
-  String get serviceBeginContent => 'Začnite sa starať o oči!';
+  String get serviceBeginContent => 'Vytvorte svoj prvý globálny tím';
 
   @override
   String get signUp => 'Registrovať sa';
@@ -131,7 +131,7 @@ class AppLocalizationsSk extends AppLocalizations {
   String get currentPlanFree => 'Aktuálny plán: Bezplatná verzia';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Premium';
 
   @override
   String get adFree => 'Bez reklám';
@@ -196,32 +196,30 @@ class AppLocalizationsSk extends AppLocalizations {
   String get premiumService => 'Prémiová služba';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Najlepší Čas';
 
   @override
-  String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+  String get benefitFullAccessDesc => 'Nájdi v sekundách, kedy je tím hore ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Tímy bez limitu';
 
   @override
   String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+      'Uložte a prepínajte tímové predvoľby 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Členovia bez limitu';
 
   @override
   String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+      'Pridajte členov z ľubovoľného časového pásma 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Bez reklám';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Plánujte stretnutia bez reklám 🌟';
 
   @override
   String get annualPlan => 'Ročný plán';

@@ -9,7 +9,7 @@ class AppLocalizationsId extends AppLocalizations {
   AppLocalizationsId([String locale = 'id']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Jangan pernah lupa tetes mata Anda. Lacak penggunaan, kelola tanggal kedaluwarsa setelah dibuka, dan dapatkan pengingat tepat waktu.';
+      'Lihat kapan seluruh tim global Anda terjaga dan temukan waktu rapat terbaik dengan satu ketukan.';
 
   @override
-  String get mainIntroductionScreen => 'Mata Anda layak mendapat perawatan';
+  String get mainIntroductionScreen => 'Saat dunia bertemu';
 
   @override
   String get mainIntroductionContent =>
-      'Setel pengingat untuk tetes mata, lacak tanggal kedaluwarsa setelah dibuka, dan kelola beberapa botol dengan mudah.';
+      'Tumpukan jam kerja beberapa zona waktu dalam batang berwarna dan lihat tumpang tindihnya seketika.';
 
   @override
   String get serviceBeginScreen => 'Mulai Perjalanan Anda';
 
   @override
-  String get serviceBeginContent => 'Mulai merawat mata Anda!';
+  String get serviceBeginContent => 'Buat tim global pertama Anda';
 
   @override
   String get signUp => 'Daftar';
@@ -130,7 +130,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get currentPlanFree => 'Paket Saat Ini: Versi Gratis';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Premium';
 
   @override
   String get adFree => 'Bebas Iklan';
@@ -195,32 +195,29 @@ class AppLocalizationsId extends AppLocalizations {
   String get premiumService => 'Layanan Premium';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Waktu Terbaik';
 
   @override
   String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+      'Temukan dalam detik saat tim global bertemu ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Tim tanpa batas';
 
   @override
-  String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+  String get benefitPremiumOnlyDesc => 'Simpan dan beralih antar preset tim 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Anggota tanpa batas';
 
   @override
-  String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+  String get benefitUnlimitedDesc => 'Tambah anggota dari semua zona waktu 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Tanpa iklan';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Rencanakan rapat tanpa iklan 🌟';
 
   @override
   String get annualPlan => 'Paket Tahunan';

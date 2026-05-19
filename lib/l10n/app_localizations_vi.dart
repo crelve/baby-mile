@@ -9,7 +9,7 @@ class AppLocalizationsVi extends AppLocalizations {
   AppLocalizationsVi([String locale = 'vi']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Không bao giờ quên thuốc nhỏ mắt. Theo dõi việc sử dụng, quản lý ngày hết hạn sau khi mở và nhận nhắc nhở đúng lúc.';
+      'Xem ngay khi nào cả đội toàn cầu thức và tìm giờ họp tốt nhất chỉ bằng một chạm.';
 
   @override
-  String get mainIntroductionScreen => 'Đôi mắt bạn xứng đáng được chăm sóc';
+  String get mainIntroductionScreen => 'Khi thế giới gặp nhau';
 
   @override
   String get mainIntroductionContent =>
-      'Đặt nhắc nhở cho thuốc nhỏ mắt, theo dõi ngày hết hạn sau khi mở và quản lý nhiều lọ thuốc.';
+      'Xếp chồng giờ làm việc của nhiều múi giờ thành thanh màu, thấy ngay khoảng giao nhau.';
 
   @override
   String get serviceBeginScreen => 'Bắt đầu hành trình của bạn';
 
   @override
-  String get serviceBeginContent => 'Bắt đầu chăm sóc mắt của bạn!';
+  String get serviceBeginContent => 'Tạo nhóm toàn cầu đầu tiên của bạn';
 
   @override
   String get signUp => 'Đăng ký';
@@ -130,7 +130,7 @@ class AppLocalizationsVi extends AppLocalizations {
   String get currentPlanFree => 'Gói hiện tại: Phiên bản miễn phí';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Premium';
 
   @override
   String get adFree => 'Không quảng cáo';
@@ -195,32 +195,30 @@ class AppLocalizationsVi extends AppLocalizations {
   String get premiumService => 'Dịch vụ Premium';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Giờ Họp Tốt Nhất';
 
   @override
   String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+      'Tìm thời điểm cả đội thức trong vài giây ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Nhóm không giới hạn';
 
   @override
   String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+      'Lưu và chuyển đổi nhiều cấu hình nhóm 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Thành viên không giới hạn';
 
   @override
-  String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+  String get benefitUnlimitedDesc => 'Thêm thành viên từ mọi múi giờ 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Không quảng cáo';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Lên lịch họp mà không bị quảng cáo 🌟';
 
   @override
   String get annualPlan => 'Gói năm';

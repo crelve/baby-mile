@@ -9,7 +9,7 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get productName => 'Bird Log – يوميات الطيور';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'لا تنسَ قطرات عينك أبداً. تتبع الاستخدام وإدارة تواريخ الانتهاء بعد الفتح والحصول على تذكيرات في الوقت المناسب.';
+      'اعرف متى يكون فريقك العالمي مستيقظًا واعثر على أفضل وقت للاجتماع بنقرة واحدة.';
 
   @override
-  String get mainIntroductionScreen => 'عيناك تستحقان الرعاية';
+  String get mainIntroductionScreen => 'عندما يلتقي العالم';
 
   @override
   String get mainIntroductionContent =>
-      'اضبط تذكيرات لقطرات عينك، وتتبع تواريخ الانتهاء بعد الفتح وادر زجاجات متعددة بسهولة.';
+      'تراكب ساعات عمل المناطق الزمنية المتعددة في أشرطة ملونة وشاهد التقاطعات فورًا.';
 
   @override
   String get serviceBeginScreen => 'بدء الخدمة';
 
   @override
-  String get serviceBeginContent => 'ابدأ العناية بعينيك!';
+  String get serviceBeginContent => 'أنشئ فريقك العالمي الأول';
 
   @override
   String get signUp => 'ابدأ';
@@ -130,7 +130,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get currentPlanFree => 'الخطة الحالية: النسخة المجانية';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh بريميوم';
+  String get premiumPlanBenefits => 'Daily Art بريميوم';
 
   @override
   String get adFree => 'بدون إعلانات';
@@ -198,30 +198,29 @@ class AppLocalizationsAr extends AppLocalizations {
   String get premiumService => 'الخدمة المميزة';
 
   @override
-  String get benefitFullAccess => 'رعاية عيون كاملة';
+  String get benefitFullAccess => 'أفضل وقت اجتماع';
 
   @override
   String get benefitFullAccessDesc =>
-      'سجل كل استخدام لقطرات العين للحفاظ على صحة عينيك ✨';
+      'اعثر في ثوانٍ على وقت تواجد فريقك العالمي ✨';
 
   @override
-  String get benefitPremiumOnly => 'إدارة زجاجات متعددة';
+  String get benefitPremiumOnly => 'فرق غير محدودة';
 
   @override
-  String get benefitPremiumOnlyDesc =>
-      'أدر جميع زجاجات قطرات العين دون التشوش في الجداول 👁️';
+  String get benefitPremiumOnlyDesc => 'احفظ وبدّل بين إعدادات فرق متعددة 👥';
 
   @override
-  String get benefitUnlimited => 'قطرات بلا حدود';
+  String get benefitUnlimited => 'أعضاء غير محدودين';
 
   @override
-  String get benefitUnlimitedDesc => 'تتبع أي عدد من الزجاجات دون قيود 💧';
+  String get benefitUnlimitedDesc => 'أضف أعضاء من أي منطقة زمنية بلا حد 🌍';
 
   @override
-  String get benefitNoAds => 'بدون إعلانات';
+  String get benefitNoAds => 'بلا إعلانات';
 
   @override
-  String get benefitNoAdsDesc => 'استمتع بتجربة سلسة دون أي انقطاعات 🎯';
+  String get benefitNoAdsDesc => 'خطّط للاجتماعات بدون إعلانات 🌟';
 
   @override
   String get annualPlan => 'الخطة السنوية';

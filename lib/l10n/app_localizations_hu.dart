@@ -9,7 +9,7 @@ class AppLocalizationsHu extends AppLocalizations {
   AppLocalizationsHu([String locale = 'hu']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Soha ne felejtse el szemcseppjeit. Kövesse nyomon a használatot, kezelje a lejárati dátumokat és kapjon emlékeztetőket.';
+      'Lásd, mikor van ébren az egész globális csapatod, és találd meg a legjobb időpontot egy érintéssel.';
 
   @override
-  String get mainIntroductionScreen => 'A szemei gondoskodást érdemelnek';
+  String get mainIntroductionScreen => 'Amikor a világ találkozik';
 
   @override
   String get mainIntroductionContent =>
-      'Állítson be emlékeztetőket szemcseppjeihez, kövesse nyomon a lejárati dátumokat és kezelje a több flakonos készletet.';
+      'Helyezd egymásra több időzóna munkaidejét színes sávokban, és lásd az átfedéseket azonnal.';
 
   @override
   String get serviceBeginScreen => 'Kezdje el az utazást';
 
   @override
-  String get serviceBeginContent => 'Kezdje el a szemápolást!';
+  String get serviceBeginContent => 'Hozd létre első globális csapatodat';
 
   @override
   String get signUp => 'Regisztráció';
@@ -131,7 +131,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get currentPlanFree => 'Jelenlegi csomag: Ingyenes verzió';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Prémium';
 
   @override
   String get adFree => 'Reklám nélküli';
@@ -196,32 +196,30 @@ class AppLocalizationsHu extends AppLocalizations {
   String get premiumService => 'Prémium szolgáltatás';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Tökéletes Időpont';
 
   @override
   String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+      'Találd meg másodpercek alatt, mikor van ébren a csapat ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Korlátlan csapat';
 
   @override
   String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+      'Ments és válts csapat-előbeállítások között 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Korlátlan tag';
 
   @override
-  String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+  String get benefitUnlimitedDesc => 'Adj hozzá tagokat bármely időzónából 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Reklámmentes';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Tervezz megbeszéléseket reklám nélkül 🌟';
 
   @override
   String get annualPlan => 'Éves csomag';

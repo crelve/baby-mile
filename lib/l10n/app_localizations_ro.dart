@@ -9,7 +9,7 @@ class AppLocalizationsRo extends AppLocalizations {
   AppLocalizationsRo([String locale = 'ro']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsRo extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Nu uitați niciodată picăturile de ochi. Urmăriți utilizarea, gestionați datele de expirare și primiți mementouri la momentul potrivit.';
+      'Vezi imediat când întreaga ta echipă globală este trează și găsește cel mai bun moment de întâlnire dintr-o atingere.';
 
   @override
-  String get mainIntroductionScreen => 'Ochii tăi merită îngrijire';
+  String get mainIntroductionScreen => 'Când lumea se întâlnește';
 
   @override
   String get mainIntroductionContent =>
-      'Setați mementouri pentru picăturile de ochi, urmăriți datele de expirare după deschidere și gestionați mai multe flacoane.';
+      'Suprapune programele de lucru ale mai multor fusuri orare în bare colorate și vezi instantaneu intersecțiile.';
 
   @override
   String get serviceBeginScreen => 'Începeți călătoria';
 
   @override
-  String get serviceBeginContent => 'Începeți să vă îngrijiți ochii!';
+  String get serviceBeginContent => 'Creează prima ta echipă globală';
 
   @override
   String get signUp => 'Înregistrare';
@@ -131,7 +131,7 @@ class AppLocalizationsRo extends AppLocalizations {
   String get currentPlanFree => 'Plan curent: Versiune gratuită';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Premium';
 
   @override
   String get adFree => 'Fără reclame';
@@ -196,32 +196,30 @@ class AppLocalizationsRo extends AppLocalizations {
   String get premiumService => 'Serviciu Premium';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Cel Mai Bun Timp';
 
   @override
   String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+      'Găsește în secunde când echipa globală e trează ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Echipe nelimitate';
 
   @override
   String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+      'Salvează și comută între presetări de echipă 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Membri nelimitați';
 
   @override
-  String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+  String get benefitUnlimitedDesc => 'Adaugă membri din orice fus orar 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Fără reclame';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Planifică ședințe fără reclame 🌟';
 
   @override
   String get annualPlan => 'Plan anual';

@@ -9,7 +9,7 @@ class AppLocalizationsSv extends AppLocalizations {
   AppLocalizationsSv([String locale = 'sv']) : super(locale);
 
   @override
-  String get productName => 'Bird Log';
+  String get productName => 'Baby Mile';
 
   @override
   String welcomeMessage(Object productName) {
@@ -18,20 +18,20 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get descriptionMessage =>
-      'Glöm aldrig dina ögondroppar. Spåra användning, hantera utgångsdatum efter öppning och få påminnelser i rätt tid.';
+      'Se när hela ditt globala team är vaket och hitta bästa mötestiden med en tryckning.';
 
   @override
-  String get mainIntroductionScreen => 'Dina ögon förtjänar omsorg';
+  String get mainIntroductionScreen => 'När världen möts';
 
   @override
   String get mainIntroductionContent =>
-      'Ange påminnelser för ögondroppar, spåra utgångsdatum efter öppning och hantera flera flaskor.';
+      'Lägg arbetstider från flera tidszoner ovanpå varandra i färgade staplar och se överlapp direkt.';
 
   @override
   String get serviceBeginScreen => 'Börja din resa';
 
   @override
-  String get serviceBeginContent => 'Börja ta hand om dina ögon!';
+  String get serviceBeginContent => 'Skapa ditt första globala team';
 
   @override
   String get signUp => 'Registrera dig';
@@ -131,7 +131,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get currentPlanFree => 'Nuvarande abonnemang: Gratisversion';
 
   @override
-  String get premiumPlanBenefits => 'Keep Fresh Premium';
+  String get premiumPlanBenefits => 'Daily Art Premium';
 
   @override
   String get adFree => 'Annonsfri';
@@ -196,32 +196,30 @@ class AppLocalizationsSv extends AppLocalizations {
   String get premiumService => 'Premium-tjänst';
 
   @override
-  String get benefitFullAccess => 'Full Eye Care Tracking';
+  String get benefitFullAccess => 'Bästa Mötestid';
 
   @override
   String get benefitFullAccessDesc =>
-      'Log every eye drop usage and discover what keeps your eyes healthy ✨';
+      'Hitta på sekunder när hela teamet är vaket ✨';
 
   @override
-  String get benefitPremiumOnly => 'Multiple Bottle Management';
+  String get benefitPremiumOnly => 'Obegränsade team';
 
   @override
-  String get benefitPremiumOnlyDesc =>
-      'Manage all your eye drop bottles and never mix up schedules 👁️';
+  String get benefitPremiumOnlyDesc => 'Spara och växla mellan teampresets 👥';
 
   @override
-  String get benefitUnlimited => 'Unlimited Eye Drops';
+  String get benefitUnlimited => 'Obegränsade medlemmar';
 
   @override
   String get benefitUnlimitedDesc =>
-      'Track as many eye drop bottles as you need without any limits 💧';
+      'Lägg till medlemmar från alla tidszoner 🌍';
 
   @override
-  String get benefitNoAds => 'No Ads';
+  String get benefitNoAds => 'Inga annonser';
 
   @override
-  String get benefitNoAdsDesc =>
-      'Enjoy a seamless eye care experience without any interruptions 🎯';
+  String get benefitNoAdsDesc => 'Planera möten utan annonser 🌟';
 
   @override
   String get annualPlan => 'Årsabonnemang';
