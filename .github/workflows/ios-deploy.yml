@@ -20,6 +20,16 @@ on:
         required: false
         default: false
         type: boolean
+      release_notes:
+        description: 'Release notes written to all locales (leave empty to keep existing)'
+        required: false
+        default: 'Bug fixes and performance improvements'
+        type: string
+      skip_screenshots:
+        description: 'Skip screenshot upload (true for minor updates without screenshot changes)'
+        required: false
+        default: true
+        type: boolean
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true
@@ -97,6 +107,27 @@ jobs:
           git push
 
           echo "new_version=$NEW_VERSION+$NEW_BUILD_NUMBER" >> $GITHUB_OUTPUT
+
+      - name: Write release notes to metadata
+        if: github.event_name != 'schedule' || steps.check-week.outputs.should_run == 'true'
+        env:
+          RELEASE_NOTES: ${{ github.event_name == 'workflow_dispatch' && inputs.release_notes || '' }}
+        run: |
+          if [ -z "$RELEASE_NOTES" ]; then
+            echo "ℹ️ No release notes provided, keeping existing release_notes.txt"
+            exit 0
+          fi
+          echo "📝 Writing release notes to all locales..."
+          find ios/fastlane/metadata -name "release_notes.txt" | while read f; do
+            printf '%s' "$RELEASE_NOTES" > "$f"
+          done
+          COUNT=$(find ios/fastlane/metadata -name "release_notes.txt" | wc -l | tr -d ' ')
+          echo "✅ Updated $COUNT locale(s)"
+
+          git config user.name "github-actions[bot]" 2>/dev/null || true
+          git config user.email "github-actions[bot]@users.noreply.github.com" 2>/dev/null || true
+          git add ios/fastlane/metadata
+          git diff --staged --quiet && echo "No changes to commit" || (git commit -m "chore: update release notes" && git pull --rebase && git push)
 
       - name: Setup project
         if: github.event_name != 'schedule' || steps.check-week.outputs.should_run == 'true'
@@ -253,6 +284,7 @@ jobs:
           ASC_KEY_CONTENT: ${{ secrets.APP_STORE_CONNECT_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           KEYCHAIN_PASSWORD: ${{ secrets.KEYCHAIN_PASSWORD }}
+          SKIP_SCREENSHOTS: ${{ (github.event_name == 'schedule' || inputs.skip_screenshots == true) && 'true' || 'false' }}
         run: |
           export PATH="$HOME/.rbenv/shims:$HOME/fvm/default/bin:$PATH"
 
