@@ -1,11 +1,12 @@
-Thank you for downloading our app!
+Ευχαριστούμε που κατεβάσατε το Baby Mile!
 
-This version includes:
-- Bug fixes and performance improvements
-- Enhanced user experience
-- Stability improvements
+[Αρχική κυκλοφορία]
+- Καταγράψτε ορόσημα ανάπτυξης με φωτογραφίες
+- Λίστα ελέγχου ανάπτυξης κατά ηλικία
+- Όμορφες κοινοποιήσιμες κάρτες ορόσημων
+- Προβολή χρονολογίου
 
-If you have any questions or feedback, please contact us through the in-app support.
+Εάν έχετε ερωτήσεις ή απόψεις, επικοινωνήστε μαζί μας μέσω της υποστήριξης της εφαρμογής.
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
+Πολιτική απορρήτου: https://baby-mile-prod.web.app/privacy.html
+Όροι χρήσης: https://baby-mile-prod.web.app/terms.html

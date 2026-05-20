@@ -1,23 +1,27 @@
-Üdvözöljük a Test App-ban!
+Soha ne felejtse el a baba első mosolyát, első lépéseit vagy első szavait. A Baby Mile könnyévé teszi az egyes mérföldkövek rögzítését fotókkal, dátumokkal és megjegyzésekkel. Töltse le ingyen és kezdjen ma.
 
-Egy erőteljes és intuitív alkalmazás, melynek célja, hogy megkönnyítse az életed.
+[Fő jellemzők]
+- Rögzítsen 50+ fejlődési mérföldkövet fotó, dátum és megjegyzéssel
+- Korbased fejlődési ellenőrzési lista - láss mit kell számítani hónapról hónapra
+- Automatikusan hozzon létre csodálatos mérföldkő kártyákat 3 méretben a közösségi médiában való megosztáshoz
+- Idősor nézet az egyes értékes pillanatok visszanézéséhez
+- Helyi értesítések amikor a baba új mérföldkő korhoz ér
 
-【Főbb Jellemzők】
-- Egyszerű és intuitív felhasználói felület
-- Gyors és hatékony teljesítmény
-- Biztonságos adattárolás
-- Rendszeres frissítések és fejlesztések
-- Sötét mód támogatás
+[Tökéletes]
+- 0-3 éves gyermekek szülei akik szépen szeretnék rögzíteni minden "első" pillanatot
+- Nagyszülők akik unokáik fejlődését követik
+- Bárki aki szeretné megőrizni a baba emlékeket megosztható formában
 
-【Tökéletes】
-- Bárki számára, aki megbízható megoldást keres
-- Felhasználóknak, akik értékelik az egyszerűséget és a hatékonyságot
-- Azoknak, akik egyszerűsíteni szeretnék a munkafolyamataikat
+[Indítson ingyen]
+- Töltse le és kezdjen el mérföldköveket rögzíteni ingyenesen
+- Az opcionális prémium előfizetés feloldja az korlátlan feljegyzéseket és 4K kártya exportot
 
-【Adatvédelem és Biztonság】
-Az adataid biztonságosan tárolódnak az eszközödön.
+[Prémium előfizetés]
+- Baby Mile Premium: havi terv (¥480/hó vagy helyi megfelelő)
+- Oldja fel a korlátlan mérföldkő feljegyzéseket és 4K kártya exportot
+- Az előfizetés automatikusan megújul hacsak nem mondja le 24 órával a periódus vége előtt
+- A díjat az Apple ID számlára terhelik a vásárlás megerősítésekor
+- Kezeld az előfizetéseket az Apple ID fiók beállításaiban
 
-Adatvédelmi Szabályzat: https://kikiki-flutter-template-prod.web.app/privacy.html
-Felhasználási Feltételek: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Töltse le most és tapasztalja meg a különbséget!
+Adatvédelmi irányelvek: https://baby-mile-prod.web.app/privacy.html
+Felhasználási feltételek: https://baby-mile-prod.web.app/terms.html

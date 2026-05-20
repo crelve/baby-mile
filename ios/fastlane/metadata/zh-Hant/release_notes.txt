@@ -1,11 +1,12 @@
-感谢您下载我们的应用！
+感謝下載 Baby Mile！
 
-此版本包括：
-- 错误修复和性能改进
-- 增强用户体验
-- 稳定性改进
+[初始版本]
+- 用照片記錄成長里程碑
+- 按月齡分類的發展檢查清單
+- 精美的可分享里程碑卡片
+- 時間軸視圖
 
-如有任何问题或反馈，请通过应用内支持与我们联系。
+如有任何問題或建議，請通過應用內支持與我們聯繫。
 
-隐私政策: https://kikiki-flutter-template-prod.web.app/privacy.html
-使用条款: https://kikiki-flutter-template-prod.web.app/terms.html
+隱私政策：https://baby-mile-prod.web.app/privacy.html
+使用條款：https://baby-mile-prod.web.app/terms.html

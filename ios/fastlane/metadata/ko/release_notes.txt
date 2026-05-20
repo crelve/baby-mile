@@ -1,11 +1,12 @@
-앱을 다운로드해 주셔서 감사합니다!
+Baby Mile을 다운로드해주셔서 감사합니다!
 
-이 버전에는 다음이 포함됩니다:
-- 버그 수정 및 성능 개선
-- 향상된 사용자 경험
-- 안정성 개선
+[초기 출시]
+- 사진으로 성장 마일스톤 기록
+- 월령별 발달 체크리스트
+- 공유용 아름다운 마일스톤 카드
+- 타임라인 보기
 
-질문이나 피드백이 있으시면 앱 내 지원을 통해 문의해 주세요.
+질문이나 피드백이 있으시면 앱 내 지원을 통해 연락주시기 바랍니다.
 
-개인정보 처리방침: https://kikiki-flutter-template-prod.web.app/privacy.html
-이용약관: https://kikiki-flutter-template-prod.web.app/terms.html
+개인정보 보호정책: https://baby-mile-prod.web.app/privacy.html
+이용약관: https://baby-mile-prod.web.app/terms.html

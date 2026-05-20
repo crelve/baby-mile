@@ -1,11 +1,12 @@
-Takk for at du lastet ned appen vår!
+Takk for at du lastet ned Baby Mile!
 
-Denne versjonen inkluderer:
-- Feilrettinger og ytelsesforbedringer
-- Forbedret brukeropplevelse
-- Stabilitetsforbedringer
+[Første utgivelse]
+- Registrer vekstmilepæler med foto
+- Utviklingssjekkliste basert på alder
+- Vakre milepælkort som kan deles
+- Tidslinjevisning
 
-Hvis du har spørsmål eller tilbakemeldinger, kan du kontakte oss via app-supporten.
+Hvis du har spørsmål eller tilbakemeldinger, kontakt oss via in-app-support.
 
-Personvernserklæring: https://kikiki-flutter-template-prod.web.app/privacy.html
-Bruksvilkår: https://kikiki-flutter-template-prod.web.app/terms.html
+Personvernregler: https://baby-mile-prod.web.app/privacy.html
+Vilkår for bruk: https://baby-mile-prod.web.app/terms.html

@@ -1,11 +1,12 @@
-Cảm ơn bạn đã tải xuống ứng dụng của chúng tôi!
+Cảm ơn bạn đã tải xuống Baby Mile!
 
-Phiên bản này bao gồm:
-- Sửa lỗi và cải thiện hiệu suất
-- Trải nghiệm người dùng được cải thiện
-- Cải thiện độ ổn định
+[Phiên bản đầu tiên]
+- Ghi lại cột mốc phát triển bằng ảnh
+- Danh sách kiểm tra phát triển theo tuổi
+- Những thẻ đẹp để chia sẻ trên mạng xã hội
+- Chế độ xem dòng thời gian
 
-Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ với chúng tôi thông qua hỗ trợ trong ứng dụng.
+Nếu bạn có bất kỳ câu hỏi hoặc ý kiến, vui lòng liên hệ với chúng tôi qua hỗ trợ trong ứng dụng.
 
-Chính sách bảo mật: https://kikiki-flutter-template-prod.web.app/privacy.html
-Điều khoản sử dụng: https://kikiki-flutter-template-prod.web.app/terms.html
+Chính sách bảo mật: https://baby-mile-prod.web.app/privacy.html
+Điều khoản sử dụng: https://baby-mile-prod.web.app/terms.html

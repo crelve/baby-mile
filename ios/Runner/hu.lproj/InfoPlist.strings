@@ -1,7 +1,5 @@
-/* Hungarian localization */
+/* hu localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "A követés személyre szabott hirdetések megjelenítésére szolgál.";
-"NSMicrophoneUsageDescription" = "Ez az alkalmazás nem használ hangfunkciókat.";
-"NSPhotoLibraryUsageDescription" = "A fényképek mentéséhez fényképtár-hozzáférés szükséges.";
-"NSCameraUsageDescription" = "A fényképek készítéséhez kamera-hozzáférés szükséges.";
-"NSUserNotificationsUsageDescription" = "Értesítési engedélyre van szükségünk, hogy fontos frissítéseket és figyelmeztetéseket küldhessünk Önnek.";
+"NSUserTrackingUsageDescription" = "Hogy érdeklődési körének megfelelő, személyre szabott hirdetéseket jelenítsünk meg.";
+"NSPhotoLibraryUsageDescription" = "Babája mérföldkő-fotóinak kiválasztásához és mentéséhez a fotókönyvtárból.";
+"NSCameraUsageDescription" = "Babája mérföldkő-pillanatainak lefényképezéséhez.";

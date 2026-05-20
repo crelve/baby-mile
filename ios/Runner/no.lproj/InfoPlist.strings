@@ -1,7 +1,5 @@
-/* Norwegian localization */
+/* no localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Sporing brukes til å vise personlige annonser.";
-"NSMicrophoneUsageDescription" = "Denne appen bruker ikke lydfunksjoner.";
-"NSPhotoLibraryUsageDescription" = "Tilgang til fotobiblioteket er nødvendig for å lagre bilder.";
-"NSCameraUsageDescription" = "Tilgang til kameraet er nødvendig for å ta bilder.";
-"NSUserNotificationsUsageDescription" = "Vi trenger varslingstillatelse for å sende deg viktige oppdateringer og varsler.";
+"NSUserTrackingUsageDescription" = "For å vise deg personaliserte annonser basert på interessene dine.";
+"NSPhotoLibraryUsageDescription" = "For å velge og lagre babyens milepælsbilder fra fotobiblioteket.";
+"NSCameraUsageDescription" = "For å ta bilder av babyens milepælsøyeblikk.";

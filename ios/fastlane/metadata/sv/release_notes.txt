@@ -1,11 +1,12 @@
-Tack för att du laddade ner vår app!
+Tack för att du laddar ned Baby Mile!
 
-Denna version innehåller:
-- Buggfixar och prestandaförbättringar
-- Förbättrad användarupplevelse
-- Stabilitetsförbättringar
+[Initialt utgåva]
+- Spara utvecklingsmilstolpar med foton
+- Utvecklingschecklista per ålder
+- Vackra kort för delning i sociala medier
+- Tidslinjevy
 
-Om du har några frågor eller feedback, kontakta oss via supporten i appen.
+Om du har frågor eller feedback, kontakta oss via appens inbyggda support.
 
-Integritetspolicy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Användarvillkor: https://kikiki-flutter-template-prod.web.app/terms.html
+Integritetspolicy: https://baby-mile-prod.web.app/privacy.html
+Användarvillkor: https://baby-mile-prod.web.app/terms.html

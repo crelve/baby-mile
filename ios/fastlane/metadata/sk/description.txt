@@ -1,23 +1,27 @@
-Vitajte v Test App!
+Nikdy nezabudnite na prvý úsmev, prvé krôčiky alebo prvé slová svojho bábätka. Baby Mile vám uľahčuje zaznamenávanie každej dôležitej chvíle pomocou fotografií, dátumov a poznámok. Stiahnite si bezplatne a začnite dnes.
 
-Výkonná a intuitívna aplikácia navrhnutá na uľahčenie vášho života.
+[Kľúčové funkcie]
+- Zaznamenávajte 50+ míľnikov vývoja s fotografiou, dátumom a poznámkou
+- Zoznam vývoja podľa veku - pozrite si, čo očakávať v každom mesiaci
+- Automaticky vytvárajte krásne karty míľnikov v troch veľkostiach na zdieľanie v sociálnych sieťach
+- Pohľad na časovú os všetkých drahých chvíľ
+- Lokálne oznámenia, keď vaše dieťa dosiahne nový vek
 
-【Kľúčové funkcie】
-- Jednoduché a intuitívne používateľské rozhranie
-- Rýchly a efektívny výkon
-- Bezpečné ukladanie dát
-- Pravidelné aktualizácie a vylepšenia
-- Podpora tmavého režimu
+[Vhodné pre]
+- Rodičov detí vo veku 0-3 rokov, ktorí chcú krásne zaznamenávať každý "prvý raz"
+- Babičky a dedkov sledujúcich rast vnuka
+- Kohokoľvek, kto chce zachovať spomienky na svojho bábätka v zdieľacom formáte
 
-【Ideálne pre】
-- Kohokoľvek, kto hľadá spoľahlivé riešenie
-- Používateľov, ktorí si cenia jednoduchosť a efektívnosť
-- Ľudí, ktorí chcú zefektívniť svoj pracovný tok
+[Začnite bezplatne]
+- Stiahnite si a začnite zaznamenávať míľniky bez nákladov
+- Prémium predplatné odomkne neobmedzené záznamy a export v 4K
 
-【Súkromie a bezpečnosť】
-Vaše dáta sú bezpečne uložené na vašom zariadení.
+[Prémium predplatné]
+- Baby Mile Premium: mesačný plán (¥480 za mesiac alebo miestny ekvivalent)
+- Odomknite neobmedzené záznamy a export kariet v 4K
+- Predplatné sa automaticky obnovuje, pokiaľ nie je zrušené 24 hodín pred koncom obdobia
+- Platba sa zaúčtuje na účet Apple ID pri potvrdení nákupu
+- Spravujte predplatné v nastaveniach Apple ID
 
-Zásady ochrany osobných údajov: https://kikiki-flutter-template-prod.web.app/privacy.html
-Podmienky používania: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Stiahnite si teraz a zažite rozdiel!
+Politika ochrany osobných údajov: https://baby-mile-prod.web.app/privacy.html
+Podmienky používania: https://baby-mile-prod.web.app/terms.html

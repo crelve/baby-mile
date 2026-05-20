@@ -1,23 +1,27 @@
-Willkommen bei Test App!
+Vergessen Sie nicht das erste Lächeln, die ersten Schritte oder die ersten Worte Ihres Babys. Baby Mile macht es mühelos, jeden Meilenstein mit Fotos, Daten und Notizen festzuhalten. Jetzt kostenlos herunterladen und loslegen.
 
-Eine leistungsstarke und intuitive App, die Ihr Leben einfacher macht.
+[Hauptmerkmale]
+- Dokumentieren Sie 50+ Entwicklungsmeilensteine mit Foto, Datum und Notiz
+- Altersgerechte Entwicklungs-Checkliste - sehen Sie, was Sie Monat für Monat erwarten können
+- Erstellen Sie automatisch wunderschöne Meilenstein-Karten in 3 Größen zum Teilen in sozialen Medien
+- Zeitansicht zum Zurückblicken auf jeden wertvollen Moment
+- Lokale Benachrichtigungen, wenn Ihr Baby ein neues Meilenstein-Alter erreicht
 
-【Hauptfunktionen】
-- Einfache und intuitive Benutzeroberfläche
-- Schnelle und effiziente Leistung
-- Sichere Datenspeicherung
-- Regelmäßige Updates und Verbesserungen
-- Dunkelmodus-Unterstützung
+[Perfekt für]
+- Eltern von Kindern im Alter von 0-3 Jahren, die jeden "ersten" Moment wunderschön dokumentieren möchten
+- Großeltern, die das Wachstum ihrer Enkel verfolgen
+- Alle, die Babys Erinnerungen in einem teilbaren Format bewahren möchten
 
-【Perfekt für】
-- Jeden, der eine zuverlässige Lösung sucht
-- Benutzer, die Wert auf Einfachheit und Effizienz legen
-- Menschen, die ihren Arbeitsablauf optimieren möchten
+[Kostenlos starten]
+- Laden Sie herunter und beginnen Sie kostenlos, Meilensteine zu dokumentieren
+- Optionales Premium-Abonnement schaltet unbegrenzte Aufzeichnungen und 4K-Kartenexport frei
 
-【Datenschutz & Sicherheit】
-Ihre Daten werden sicher auf Ihrem Gerät gespeichert.
+[Premium-Abonnement]
+- Baby Mile Premium: monatlicher Plan (¥480/Monat oder lokales Äquivalent)
+- Schalten Sie unbegrenzte Meilenstein-Aufzeichnungen und 4K-Kartenexport frei
+- Das Abonnement verlängert sich automatisch, es sei denn, es wird 24 Stunden vor Ablauf beendet
+- Zahlung wird zur Kaufbestätigung vom Apple ID-Konto abgebucht
+- Verwalten Sie Abos in Ihren Apple ID-Kontoeinstellungen
 
-Datenschutzrichtlinie: https://kikiki-flutter-template-prod.web.app/privacy.html
-Nutzungsbedingungen: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Jetzt herunterladen und den Unterschied erleben!
+Datenschutzerklärung: https://baby-mile-prod.web.app/privacy.html
+Nutzungsbedingungen: https://baby-mile-prod.web.app/terms.html

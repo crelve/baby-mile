@@ -1,23 +1,27 @@
-Dobrodošli u Testnu Aplikaciju!
+Nikad ne zaboravi prvi osmijeh, prve korake ili prve riječi tvoje bebe. Baby Mile čini jednostavnom prikupljanje svakom razvojnom milje s fotografijama, datumima i bilješkama.
 
-Moćna i intuitivna aplikacija dizajnirana da vam olakša život.
+[Glavne mogućnosti]
+- Bilježi više od 50 razvojnih etapa s fotografijom, datumom i bilješki
+- Ljestvica razvoja po dobi - vidi što očekivati месец по месяц
+- Automatski kreiraj lijepe kartice razvojnih etapa u 3 veličine za dijeljenje na društvenim mrežama
+- Vremenska traka za vraćanje svakom dragocjenom trenutku
+- Lokalne obavijesti kada tvoje bebe dosegne novu razvojnu etapu
 
-【Glavne Značajke】
-- Jednostavno i intuitivno korisničko sučelje
-- Brze i učinkovite performanse
-- Sigurno pohranjivanje podataka
-- Redovita ažuriranja i poboljšanja
-- Podrška za tamni način rada
+[Savršeno za]
+- Roditelje djece u dobi od 0-3 godine
+- Bake i djedove koji prate rast unuka
+- Bilo koga tko želi čuvati uspomene bebe u obliku koji se može dijeliti
 
-【Savršeno Za】
-- Sve koji traže pouzdano rješenje
-- Korisnike koji cijene jednostavnost i učinkovitost
-- Ljude koji žele optimizirati svoj radni tijek
+[Počni besplatno]
+- Preuzmi i počni bilježiti razvojne etape bez troškova
+- Premium pretplata otključava neograničene zapise i izvoz kartica 4K
 
-【Privatnost i Sigurnost】
-Vaši podaci se sigurno pohranjuju na vašem uređaju.
+[Premium pretplata]
+- Baby Mile Premium: mjesečni plan (¥480/mjesec ili lokalni ekvivalent)
+- Otključaj neograničene zapise i izvoz kartica 4K
+- Pretplata se automatski obnavlja osim ako se otkaže 24 sata prije kraja razdoblja
+- Naplaćuje se na Apple ID račun pri potvrdi kupnje
+- Upravljaj pretplatama u postavkama Apple ID računa
 
-Politika privatnosti: https://kikiki-flutter-template-prod.web.app/privacy.html
-Uvjeti korištenja: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Preuzmite sada i iskusite razliku!
+Politika privatnosti: https://baby-mile-prod.web.app/privacy.html
+Uvjeti korištenja: https://baby-mile-prod.web.app/terms.html

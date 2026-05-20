@@ -1,23 +1,27 @@
-Velkommen til Test App!
+Glem aldri babys første smil, første skritt eller første ord. Baby Mile gjør det enkelt å fange hvert verdifullt øyeblikk med foto, dato og notater. Last ned gratis og start i dag.
 
-En kraftig og intuitiv app designet for å gjøre livet ditt enklere.
+[Viktigste funksjoner]
+- Registrer over 50 milepæler for vekst med foto, dato og notat
+- Utviklingssjekkliste basert på alder - se hva som forventes måned for måned
+- Generer automatisk vakre milepælkort i 3 størrelser for å dele på sosiale medier
+- Tidslinjevisning for å se tilbake på hvert verdifullt øyeblikk
+- Lokale meldinger når babyen når ny alder milepæl
 
-【Viktige Funksjoner】
-- Enkelt og intuitivt brukergrensesnitt
-- Rask og effektiv ytelse
-- Sikker datalagring
-- Regelmessige oppdateringer og forbedringer
-- Støtte for mørk modus
+[Perfekt for]
+- Foreldre til barn i alderen 0-3 år som ønsker å registrere hver "første" vakker
+- Besteforeldre som følger barnebarnets vekst
+- Alle som ønsker å bevare babyminner i delbar format
 
-【Perfekt For】
-- Alle som leter etter en pålitelig løsning
-- Brukere som verdsetter enkelhet og effektivitet
-- Folk som ønsker å effektivisere arbeidsflyten sin
+[Start gratis]
+- Last ned og begynn å registrere milepæler uten kostnad
+- Valgfri premium-abonnement låser opp ubegrensede opptak og 4K-eksport
 
-【Personvern og Sikkerhet】
-Dine data lagres sikkert på din enhet.
+[Premium-abonnement]
+- Baby Mile Premium: månedlig plan (¥480/måned eller lokal tilsvarende)
+- Lås opp ubegrensede opptak av milepæler og 4K-eksport av kort
+- Abonnementet fornyes automatisk med mindre det kanselleres 24 timer før perioden avsluttes
+- Betaling belastes Apple ID-kontoen ved kjøpsbekreftelse
+- Administrer abonnementer i Apple ID-kontoinnstillinger
 
-Personvernregler: https://kikiki-flutter-template-prod.web.app/privacy.html
-Bruksvilkår: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Last ned nå og opplev forskjellen!
+Personvernregler: https://baby-mile-prod.web.app/privacy.html
+Vilkår for bruk: https://baby-mile-prod.web.app/terms.html

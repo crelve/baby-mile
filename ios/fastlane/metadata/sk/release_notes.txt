@@ -1,11 +1,12 @@
-Ďakujeme, že ste si stiahli našu aplikáciu!
+Ďakujeme za stiahnutie Baby Mile!
 
-Táto verzia obsahuje:
-- Opravy chýb a vylepšenia výkonu
-- Vylepšená používateľská skúsenosť
-- Vylepšenia stability
+[Počiatočné vydanie]
+- Zaznamenávajte míľniky vývoja s fotografiami
+- Zoznam vývoja podľa veku
+- Krásne karty na zdieľanie v sociálnych sieťach
+- Pohľad na časovú os
 
-Ak máte akékoľvek otázky alebo spätnú väzbu, kontaktujte nás prostredníctvom podpory v aplikácii.
+Ak máte otázky alebo spätnu väzbu, kontaktujte nás cez vstanú podporu aplikácie.
 
-Zásady ochrany osobných údajov: https://kikiki-flutter-template-prod.web.app/privacy.html
-Podmienky používania: https://kikiki-flutter-template-prod.web.app/terms.html
+Politika ochrany osobných údajov: https://baby-mile-prod.web.app/privacy.html
+Podmienky používania: https://baby-mile-prod.web.app/terms.html

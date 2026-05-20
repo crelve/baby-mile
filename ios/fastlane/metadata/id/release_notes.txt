@@ -1,11 +1,12 @@
-Terima kasih telah mengunduh aplikasi kami!
+Terima kasih telah mengunduh Baby Mile!
 
-Versi ini meliputi:
-- Perbaikan bug dan peningkatan kinerja
-- Peningkatan pengalaman pengguna
-- Peningkatan stabilitas
+[Rilis Awal]
+- Catat tonggak pertumbuhan dengan foto
+- Daftar periksa perkembangan berdasarkan usia
+- Kartu tonggak indah yang dapat dibagikan
+- Tampilan garis waktu
 
-Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi kami melalui dukungan dalam aplikasi.
+Jika Anda memiliki pertanyaan atau umpan balik, hubungi kami melalui dukungan dalam aplikasi.
 
-Kebijakan Privasi: https://kikiki-flutter-template-prod.web.app/privacy.html
-Ketentuan Penggunaan: https://kikiki-flutter-template-prod.web.app/terms.html
+Kebijakan Privasi: https://baby-mile-prod.web.app/privacy.html
+Syarat Penggunaan: https://baby-mile-prod.web.app/terms.html

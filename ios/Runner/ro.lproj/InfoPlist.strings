@@ -1,7 +1,5 @@
-/* Romanian localization */
+/* ro localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Urmărirea este folosită pentru a afișa reclame personalizate.";
-"NSMicrophoneUsageDescription" = "Această aplicație nu utilizează funcții audio.";
-"NSPhotoLibraryUsageDescription" = "Accesul la biblioteca de fotografii este necesar pentru salvarea fotografiilor.";
-"NSCameraUsageDescription" = "Accesul la cameră este necesar pentru a face fotografii.";
-"NSUserNotificationsUsageDescription" = "Avem nevoie de permisiunea pentru notificări pentru a vă trimite actualizări și alerte importante.";
+"NSUserTrackingUsageDescription" = "Pentru a vă afișa reclame personalizate în funcție de interesele dvs.";
+"NSPhotoLibraryUsageDescription" = "Pentru a selecta și salva fotografiile cu momentele importante ale bebelușului dvs. din biblioteca foto.";
+"NSCameraUsageDescription" = "Pentru a face fotografii ale momentelor importante ale bebelușului dvs.";

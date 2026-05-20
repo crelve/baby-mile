@@ -1,7 +1,5 @@
-/* Slovak localization */
+/* sk localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Sledovanie sa používa na zobrazenie personalizovaných reklám.";
-"NSMicrophoneUsageDescription" = "Táto aplikácia nepoužíva zvukové funkcie.";
-"NSPhotoLibraryUsageDescription" = "Pre uloženie fotografií je potrebný prístup ku knižnici fotografií.";
-"NSCameraUsageDescription" = "Pre fotenie je potrebný prístup k fotoaparátu.";
-"NSUserNotificationsUsageDescription" = "Potrebujeme povolenie na oznámenia, aby sme vám mohli posielať dôležité aktualizácie a upozornenia.";
+"NSUserTrackingUsageDescription" = "Na zobrazovanie personalizovaných reklám na základe vašich záujmov.";
+"NSPhotoLibraryUsageDescription" = "Na výber a uloženie fotografií míľnikov vášho dieťaťa z knižnice fotografií.";
+"NSCameraUsageDescription" = "Na fotografovanie momentov míľnikov vášho dieťaťa.";

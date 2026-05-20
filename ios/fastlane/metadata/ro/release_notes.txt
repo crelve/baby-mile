@@ -1,11 +1,12 @@
-Vă mulțumim că ați descărcat aplicația noastră!
+Mulțumesc că ai descărcat Baby Mile!
 
-Această versiune include:
-- Remedieri de erori și îmbunătățiri de performanță
-- Experiență de utilizator îmbunătățită
-- Îmbunătățiri ale stabilității
+[Lansare inițială]
+- Înregistrează repere de creștere cu fotografii
+- Lista de verificare a dezvoltării după vârstă
+- Frumoase carduri-repere pentru a distribui
+- Vizualizare a cronologiei
 
-Dacă aveți întrebări sau feedback, vă rugăm să ne contactați prin asistența din aplicație.
+Dacă ai întrebări sau feedback, te rog să ne contactezi prin suportul din aplicație.
 
-Politica de confidențialitate: https://kikiki-flutter-template-prod.web.app/privacy.html
-Termeni de utilizare: https://kikiki-flutter-template-prod.web.app/terms.html
+Politica de confidențialitate: https://baby-mile-prod.web.app/privacy.html
+Termeni de utilizare: https://baby-mile-prod.web.app/terms.html

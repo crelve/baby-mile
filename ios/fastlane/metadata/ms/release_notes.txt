@@ -1,11 +1,12 @@
-Terima kasih kerana memuat turun aplikasi kami!
+Terima kasih telah memuat turun Baby Mile!
 
-Versi ini merangkumi:
-- Pembetulan pepijat dan peningkatan prestasi
-- Pengalaman pengguna yang dipertingkatkan
-- Peningkatan kestabilan
+[Keluaran Awal]
+- Rakam pencapaian pertumbuhan dengan foto
+- Senarai semak perkembangan mengikut umur
+- Kad pencapaian cantik yang boleh dikongsi
+- Paparan garis masa
 
-Jika anda mempunyai sebarang soalan atau maklum balas, sila hubungi kami melalui sokongan dalam aplikasi.
+Jika Anda mempunyai soalan atau maklum balas, sila hubungi kami melalui sokongan dalam aplikasi.
 
-Dasar Privasi: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terma Penggunaan: https://kikiki-flutter-template-prod.web.app/terms.html
+Dasar Privasi: https://baby-mile-prod.web.app/privacy.html
+Syarat Penggunaan: https://baby-mile-prod.web.app/terms.html

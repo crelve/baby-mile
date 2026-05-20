@@ -1,23 +1,27 @@
-Bem-vindo ao Test App!
+Nunca se esqueça do primeiro sorriso, dos primeiros passos ou das primeiras palavras do seu bebê. O Baby Mile torna fácil capturar cada momento precioso com fotos, datas e anotações. Baixe gratuitamente e comece hoje.
 
-Um aplicativo poderoso e intuitivo projetado para tornar sua vida mais fácil.
+[Principais recursos]
+- Registre mais de 50 marcos de crescimento com fotos, datas e notas
+- Lista de verificação de desenvolvimento por idade - veja o que esperar mês a mês
+- Gere automaticamente lindos cartões de marcos em 3 tamanhos para compartilhar nas redes sociais
+- Visualização de cronograma para revisar cada momento precioso
+- Notificações locais quando seu bebê atinge um novo marco de idade
 
-【Recursos principais】
-- Interface de usuário simples e intuitiva
-- Desempenho rápido e eficiente
-- Armazenamento de dados seguro
-- Atualizações e melhorias regulares
-- Suporte ao modo escuro
+[Perfeito para]
+- Pais de crianças de 0-3 anos que desejam registrar lindamente cada "primeiro" momento
+- Avós acompanhando o crescimento de seus netos
+- Qualquer pessoa que deseje preservar memórias do bebê em um formato compartilhável
 
-【Perfeito para】
-- Qualquer pessoa que procura uma solução confiável
-- Usuários que valorizam simplicidade e eficiência
-- Pessoas que desejam otimizar seu fluxo de trabalho
+[Comece gratuitamente]
+- Baixe e comece a registrar marcos sem custo
+- A assinatura premium opcional desbloqueia registros ilimitados e exportação em 4K
 
-【Privacidade e segurança】
-Seus dados são armazenados com segurança em seu dispositivo.
+[Assinatura premium]
+- Baby Mile Premium: plano mensal (¥480/mês ou equivalente local)
+- Desbloqueie registros ilimitados de marcos e exportação de cartões em 4K
+- A assinatura é renovada automaticamente a menos que seja cancelada 24 horas antes do final do período
+- O pagamento é cobrado na conta Apple ID na confirmação da compra
+- Gerencie assinaturas nas Configurações da Conta Apple ID
 
-Política de Privacidade: https://kikiki-flutter-template-prod.web.app/privacy.html
-Termos de Uso: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Baixe agora e experimente a diferença!
+Política de Privacidade: https://baby-mile-prod.web.app/privacy.html
+Termos de Uso: https://baby-mile-prod.web.app/terms.html

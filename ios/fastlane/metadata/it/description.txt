@@ -1,23 +1,27 @@
-Benvenuto in Test App!
+Non dimenticare il primo sorriso, i primi passi o le prime parole di tuo figlio. Baby Mile rende facile catturare ogni momento prezioso con foto, date e note. Scarica gratis e inizia oggi.
 
-Un'app potente e intuitiva progettata per rendere la tua vita più facile.
+[Caratteristiche Principali]
+- Registra 50+ traguardi di crescita con foto, data e memo
+- Elenco di controllo dello sviluppo per età - vedi cosa aspettarti mese dopo mese
+- Genera automaticamente bellissime cartoline in 3 dimensioni da condividere sui social media
+- Vista della cronologia per riepilogare ogni momento prezioso
+- Notifiche locali quando il tuo bambino raggiunge una nuova età cardine
 
-【Caratteristiche principali】
-- Interfaccia utente semplice e intuitiva
-- Prestazioni veloci ed efficienti
-- Archiviazione dati sicura
-- Aggiornamenti e miglioramenti regolari
-- Supporto per la modalità scura
+[Perfetto Per]
+- Genitori di bambini di età 0-3 anni che vogliono registrare bellamente ogni "primo"
+- Nonni che seguono la crescita del loro nipote
+- Chiunque voglia conservare i ricordi del bambino in un formato condivisibile
 
-【Perfetto per】
-- Chiunque cerchi una soluzione affidabile
-- Utenti che apprezzano semplicità ed efficienza
-- Persone che vogliono semplificare il loro flusso di lavoro
+[Inizia Gratis]
+- Scarica e inizia a registrare i traguardi gratuitamente
+- L'abbonamento premium opzionale sblocca registrazioni illimitate ed esportazione in 4K
 
-【Privacy e sicurezza】
-I tuoi dati sono archiviati in modo sicuro sul tuo dispositivo.
+[Abbonamento Premium]
+- Baby Mile Premium: piano mensile (¥480/mese o equivalente locale)
+- Sblocca registrazioni di traguardi illimitate ed esportazione di cartoline in 4K
+- L'abbonamento si rinnova automaticamente a meno che non sia annullato 24 ore prima della fine del periodo
+- Il pagamento viene addebitato sull'account Apple ID al momento della conferma dell'acquisto
+- Gestisci gli abbonamenti nelle Impostazioni dell'Account Apple ID
 
-Informativa sulla privacy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Termini di utilizzo: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Scarica ora e scopri la differenza!
+Informativa sulla Privacy: https://baby-mile-prod.web.app/privacy.html
+Condizioni d'Uso: https://baby-mile-prod.web.app/terms.html

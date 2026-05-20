@@ -1,23 +1,27 @@
-Welcome to Test App!
+Never forget your baby's first smile, first steps, or first words. Baby Mile makes it effortless to capture every milestone with photos, dates, and notes. Download free and start today.
 
-A powerful and intuitive app designed to make your life easier.
+[Key Features]
+- Record 50+ growth milestones with photo, date, and memo
+- Age-based development checklist - see what to expect month by month
+- Auto-generate beautiful milestone cards in 3 sizes to share on social media
+- Timeline view to look back on every precious moment
+- Local notifications when your baby reaches a new milestone age
 
-【Key Features】
-- Simple and intuitive user interface
-- Fast and efficient performance
-- Secure data storage
-- Regular updates and improvements
-- Dark mode support
+[Perfect For]
+- Parents of children aged 0-3 who want to beautifully record every "first"
+- Grandparents following their grandchild's growth
+- Anyone who wants to preserve baby memories in a shareable format
 
-【Perfect For】
-- Anyone looking for a reliable solution
-- Users who value simplicity and efficiency
-- People who want to streamline their workflow
+[Get Started for Free]
+- Download and start recording milestones at no cost
+- Optional premium subscription unlocks unlimited records and 4K card export
 
-【Privacy & Security】
-Your data is stored securely on your device.
+[Premium Subscription]
+- Baby Mile Premium: monthly plan (¥480/month or local equivalent)
+- Unlock unlimited milestone records and 4K card export
+- Subscription automatically renews unless canceled 24 hours before period end
+- Payment charged to Apple ID account at purchase confirmation
+- Manage subscriptions in Apple ID Account Settings
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Download now and experience the difference!
+Privacy Policy: https://baby-mile-prod.web.app/privacy.html
+Terms of Use: https://baby-mile-prod.web.app/terms.html

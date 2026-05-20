@@ -1,11 +1,12 @@
-Bedankt voor het downloaden van onze app!
+Bedankt voor het downloaden van Baby Mile!
 
-Deze versie bevat:
-- Bugfixes en prestatieverbeteringen
-- Verbeterde gebruikerservaring
-- Stabiliteitsverbeteringen
+[Eerste versie]
+- Leg groei-mijlpalen vast met foto's
+- Ontwikkelingschecklist per leeftijd
+- Mooie mijlpaal-kaarten om te delen
+- Tijdlijnweergave
 
-Als u vragen of feedback heeft, neem dan contact met ons op via de in-app ondersteuning.
+Als je vragen of suggesties hebt, neem dan contact met ons op via de ondersteuning in de app.
 
-Privacybeleid: https://kikiki-flutter-template-prod.web.app/privacy.html
-Gebruiksvoorwaarden: https://kikiki-flutter-template-prod.web.app/terms.html
+Privacybeleid: https://baby-mile-prod.web.app/privacy.html
+Gebruiksvoorwaarden: https://baby-mile-prod.web.app/terms.html

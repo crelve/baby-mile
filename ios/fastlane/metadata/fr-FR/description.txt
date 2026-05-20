@@ -1,23 +1,27 @@
-Bienvenue sur Test App !
+N'oubliez jamais le premier sourire, les premiers pas ou les premières paroles de votre bébé. Baby Mile rend facile la capture de chaque jalon avec photos, dates et notes. Téléchargez gratuitement et commencez aujourd'hui.
 
-Une application puissante et intuitive conçue pour vous faciliter la vie.
+[Principales fonctionnalités]
+- Enregistrez 50+ jalons de croissance avec photo, date et mémo
+- Liste de contrôle du développement par âge - voyez ce qu'il faut attendre mois après mois
+- Générez automatiquement de belles cartes de jalon en 3 tailles à partager sur les réseaux sociaux
+- Affichage chronologique pour revivre chaque moment précieux
+- Notifications locales quand votre bébé atteint un nouvel âge de jalon
 
-【Fonctionnalités principales】
-- Interface utilisateur simple et intuitive
-- Performances rapides et efficaces
-- Stockage de données sécurisé
-- Mises à jour et améliorations régulières
-- Support du mode sombre
+[Parfait pour]
+- Les parents d'enfants de 0-3 ans qui veulent enregistrer magnifiquement chaque "premier"
+- Les grands-parents suivant la croissance de leur petit-enfant
+- Quiconque souhaite préserver les souvenirs de bébé dans un format partageable
 
-【Parfait pour】
-- Tous ceux qui recherchent une solution fiable
-- Les utilisateurs qui valorisent la simplicité et l'efficacité
-- Les personnes qui souhaitent rationaliser leur flux de travail
+[Commencez gratuitement]
+- Téléchargez et commencez à enregistrer les jalons sans frais
+- L'abonnement premium optionnel déverrouille les enregistrements illimités et l'export de carte 4K
 
-【Confidentialité et sécurité】
-Vos données sont stockées en toute sécurité sur votre appareil.
+[Abonnement Premium]
+- Baby Mile Premium : forfait mensuel (¥480/mois ou équivalent local)
+- Débloquez les enregistrements de jalons illimités et l'export de carte 4K
+- L'abonnement se renouvelle automatiquement sauf annulation 24 heures avant la fin de la période
+- Paiement débité du compte Apple ID lors de la confirmation d'achat
+- Gérez les abonnements dans les paramètres du compte Apple ID
 
-Politique de confidentialité: https://kikiki-flutter-template-prod.web.app/privacy.html
-Conditions d'utilisation: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Téléchargez maintenant et découvrez la différence !
+Politique de confidentialité : https://baby-mile-prod.web.app/privacy.html
+Conditions d'utilisation : https://baby-mile-prod.web.app/terms.html

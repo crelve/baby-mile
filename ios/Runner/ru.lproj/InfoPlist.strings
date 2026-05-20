@@ -1,7 +1,5 @@
-/* Russian localization */
+/* ru localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Отслеживание используется для показа персонализированной рекламы.";
-"NSMicrophoneUsageDescription" = "Это приложение не использует аудио функции.";
-"NSPhotoLibraryUsageDescription" = "Для сохранения фотографий требуется доступ к библиотеке фотографий.";
-"NSCameraUsageDescription" = "Для съемки фотографий требуется доступ к камере.";
-"NSUserNotificationsUsageDescription" = "Нам нужно разрешение на уведомления, чтобы отправлять вам важные обновления и оповещения.";
+"NSUserTrackingUsageDescription" = "Для показа персонализированной рекламы на основе ваших интересов.";
+"NSPhotoLibraryUsageDescription" = "Для выбора и сохранения фотографий важных моментов вашего малыша из медиатеки.";
+"NSCameraUsageDescription" = "Для съёмки фотографий важных моментов вашего малыша.";

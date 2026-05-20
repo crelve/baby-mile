@@ -1,23 +1,27 @@
-Chào mừng bạn đến với Test App!
+Đừng bao giờ quên nụ cười đầu tiên, những bước chân đầu tiên hoặc những lời nói đầu tiên của bé. Baby Mile giúp bạn dễ dàng ghi lại mỗi cột mốc quan trọng bằng ảnh, ngày tháng và ghi chú. Tải xuống miễn phí và bắt đầu hôm nay.
 
-Một ứng dụng mạnh mẽ và trực quan được thiết kế để làm cho cuộc sống của bạn dễ dàng hơn.
+[Các tính năng chính]
+- Ghi lại hơn 50 cột mốc phát triển với ảnh, ngày tháng và ghi chú
+- Danh sách kiểm tra phát triển theo tuổi - xem điều gì sẽ xảy ra mỗi tháng
+- Tự động tạo thẻ cột mốc đẹp ở 3 kích thước để chia sẻ trên mạng xã hội
+- Chế độ xem dòng thời gian của tất cả những khoảnh khắc quý giá
+- Thông báo cục bộ khi bé bạn đạt được một tuổi cột mốc mới
 
-【Tính năng chính】
-- Giao diện người dùng đơn giản và trực quan
-- Hiệu suất nhanh chóng và hiệu quả
-- Lưu trữ dữ liệu an toàn
-- Cập nhật và cải tiến thường xuyên
-- Hỗ trợ chế độ tối
+[Hoàn hảo cho]
+- Cha mẹ của trẻ em 0-3 tuổi muốn ghi lại đẹp mắt mỗi "lần đầu tiên"
+- Ông bà theo dõi sự phát triển của cháu
+- Bất cứ ai muốn lưu giữ kỷ niệm về bé ở định dạng có thể chia sẻ
 
-【Hoàn hảo cho】
-- Bất kỳ ai đang tìm kiếm một giải pháp đáng tin cậy
-- Người dùng coi trọng sự đơn giản và hiệu quả
-- Những người muốn hợp lý hóa quy trình làm việc của họ
+[Bắt đầu miễn phí]
+- Tải xuống và bắt đầu ghi lại cột mốc mà không có chi phí
+- Gói theo dõi cao cấp mở khóa các bản ghi không giới hạn và xuất 4K
 
-【Quyền riêng tư và bảo mật】
-Dữ liệu của bạn được lưu trữ an toàn trên thiết bị của bạn.
+[Gói theo dõi cao cấp]
+- Baby Mile Premium: gói hàng tháng (¥480/tháng hoặc tương đương địa phương)
+- Mở khóa các bản ghi không giới hạn và xuất thẻ 4K
+- Gói theo dõi sẽ tự động gia hạn trừ khi bị hủy 24 giờ trước khi kết thúc kỳ hạn
+- Thanh toán được tính vào tài khoản Apple ID khi xác nhận mua
+- Quản lý gói theo dõi trong cài đặt tài khoản Apple ID
 
-Chính sách bảo mật: https://kikiki-flutter-template-prod.web.app/privacy.html
-Điều khoản sử dụng: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Tải xuống ngay và trải nghiệm sự khác biệt!
+Chính sách bảo mật: https://baby-mile-prod.web.app/privacy.html
+Điều khoản sử dụng: https://baby-mile-prod.web.app/terms.html

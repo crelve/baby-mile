@@ -1,23 +1,27 @@
-Test App'e hoş geldiniz!
+Bebeğinizin ilk gülüşünü, ilk adımlarını veya ilk sözlerini asla unutmayın. Baby Mile, fotoğraflar, tarihler ve notlarla her önemli dönüm noktasını kaydetmeyi kolaylaştırır. Ücretsiz indirin ve bugün başlayın.
 
-Hayatınızı kolaylaştırmak için tasarlanmış güçlü ve sezgisel bir uygulama.
+[Ana Özellikler]
+- Fotoğraf, tarih ve not ile 50+ gelişim dönüm noktasını kaydedin
+- Yaşa göre gelişim kontrol listesi - her ayda nelerden bekleneceğini görün
+- Sosyal medyada paylaşmak için otomatik olarak güzel dönüm noktası kartları oluşturun (3 boyutunda)
+- Tüm değerli anların zaman çizelgesi görünümü
+- Bebeğiniz yeni bir yaş dönüm noktasına ulaştığında yerel bildirimler
 
-【Temel Özellikler】
-- Basit ve sezgisel kullanıcı arayüzü
-- Hızlı ve verimli performans
-- Güvenli veri depolama
-- Düzenli güncellemeler ve iyileştirmeler
-- Karanlık mod desteği
+[Kimin için Mükemmel]
+- Her "ilk"i güzelce kaydetmek isteyen 0-3 yaş çocuğun babası/annesi
+- Torunlarının büyümesini takip eden büyükanneler/büyükbabalar
+- Bebek anılarını paylaşılabilir bir biçimde korumak isteyenler
 
-【Şunlar İçin Mükemmel】
-- Güvenilir bir çözüm arayan herkes
-- Basitlik ve verimliliğe değer veren kullanıcılar
-- İş akışlarını kolaylaştırmak isteyen insanlar
+[Ücretsiz Başlayın]
+- İndirin ve maliyetsiz dönüm noktalarını kaydetmeye başlayın
+- Premium abonelik sınırsız kayıtlar ve 4K dışa aktarmayı açar
 
-【Gizlilik ve Güvenlik】
-Verileriniz cihazınızda güvenli bir şekilde saklanır.
+[Premium Abonelik]
+- Baby Mile Premium: aylık plan (¥480/ay veya yerel eşdeğer)
+- Sınırsız kayıtlar ve 4K kart dışa aktarmayı açın
+- Abonelik, dönem bitişinden 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir
+- Ödeme, satın alma onayında Apple ID hesabınıza tahsil edilir
+- Abonelikleri Apple ID hesap ayarlarında yönetin
 
-Gizlilik Politikası: https://kikiki-flutter-template-prod.web.app/privacy.html
-Kullanım Koşulları: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Şimdi indirin ve farkı yaşayın!
+Gizlilik Politikası: https://baby-mile-prod.web.app/privacy.html
+Kullanım Şartları: https://baby-mile-prod.web.app/terms.html

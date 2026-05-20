@@ -1,7 +1,5 @@
-/* Hindi localization */
+/* hi localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "व्यक्तिगत विज्ञापन प्रदर्शित करने के लिए ट्रैकिंग का उपयोग किया जाता है।";
-"NSMicrophoneUsageDescription" = "यह ऐप ऑडियो सुविधाओं का उपयोग नहीं करता है।";
-"NSPhotoLibraryUsageDescription" = "फोटो सहेजने के लिए फोटो लाइब्रेरी एक्सेस आवश्यक है।";
-"NSCameraUsageDescription" = "फोटो लेने के लिए कैमरा एक्सेस आवश्यक है।";
-"NSUserNotificationsUsageDescription" = "महत्वपूर्ण अपडेट और अलर्ट भेजने के लिए हमें सूचना अनुमति की आवश्यकता है।";
+"NSUserTrackingUsageDescription" = "आपकी रुचियों के आधार पर वैयक्तिकृत विज्ञापन दिखाने के लिए।";
+"NSPhotoLibraryUsageDescription" = "आपकी फ़ोटो लाइब्रेरी से आपके शिशु की माइलस्टोन तस्वीरें चुनने और सहेजने के लिए।";
+"NSCameraUsageDescription" = "आपके शिशु के माइलस्टोन पलों की तस्वीरें लेने के लिए।";

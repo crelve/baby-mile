@@ -1,11 +1,12 @@
-Uygulamamızı indirdiğiniz için teşekkür ederiz!
+Baby Mile'ı indirdiğiniz için teşekkür ederiz!
 
-Bu sürüm şunları içerir:
-- Hata düzeltmeleri ve performans iyileştirmeleri
-- Geliştirilmiş kullanıcı deneyimi
-- Stabilite iyileştirmeleri
+[İlk Sürüm]
+- Gelişim dönüm noktalarını fotoğraflarla kaydedin
+- Yaşa göre gelişim kontrol listesi
+- Sosyal medyada paylaşmak için güzel kartlar
+- Zaman çizelgesi görünümü
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen uygulama içi destek üzerinden bize ulaşın.
+Sorularınız veya geri bildiriminiz varsa, lütfen uygulama içi destek aracılığıyla bizimle iletişime geçin.
 
-Gizlilik Politikası: https://kikiki-flutter-template-prod.web.app/privacy.html
-Kullanım Koşulları: https://kikiki-flutter-template-prod.web.app/terms.html
+Gizlilik Politikası: https://baby-mile-prod.web.app/privacy.html
+Kullanım Şartları: https://baby-mile-prod.web.app/terms.html

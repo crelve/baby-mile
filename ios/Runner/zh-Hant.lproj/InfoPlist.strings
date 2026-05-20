@@ -1,7 +1,5 @@
-/* Chinese Traditional localization */
+/* zh-Hant localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "追蹤用於顯示個性化廣告。";
-"NSMicrophoneUsageDescription" = "此應用程式不使用音訊功能。";
-"NSPhotoLibraryUsageDescription" = "需要訪問照片庫才能保存照片。";
-"NSCameraUsageDescription" = "需要訪問相機才能拍照。";
-"NSUserNotificationsUsageDescription" = "我們需要通知權限以向您發送重要更新和提醒。";
+"NSUserTrackingUsageDescription" = "用於根據您的興趣顯示個人化廣告。";
+"NSPhotoLibraryUsageDescription" = "用於從相簿中選擇並儲存寶寶的成長里程碑照片。";
+"NSCameraUsageDescription" = "用於拍攝記錄寶寶成長里程碑的照片。";

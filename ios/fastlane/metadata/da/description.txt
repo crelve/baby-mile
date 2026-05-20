@@ -1,23 +1,27 @@
-Velkommen til Test App!
+Glem aldrig dit babys første smil, første skridt eller første ord. Baby Mile gør det nemt at fange hver udviklings-milepæl med fotos, datoer og noter.
 
-En kraftfuld og intuitiv app designet til at gøre dit liv lettere.
+[Vigtigste funktioner]
+- Optag over 50 udviklings-milepæle med foto, dato og note
+- Udviklingscheckliste efter alder - se hvad der er at forvente måned for måned
+- Generer automatisk smukke milepæl-kort i 3 størrelser til deling på sociale medier
+- Tidslinje-visning for at mindes hvert kostbart øjeblik
+- Lokale notifikationer når dit baby når en ny alders-milepæl
 
-【Nøglefunktioner】
-- Simpel og intuitiv brugerflade
-- Hurtig og effektiv ydeevne
-- Sikker datalagring
-- Regelmæssige opdateringer og forbedringer
-- Understøttelse af mørk tilstand
+[Perfekt til]
+- Forældre til børn i alderen 0-3 år
+- Bedsteforældre der følger deres børnebørns vækst
+- Alle der ønsker at bevare baby-minder i et format der kan deles
 
-【Perfekt Til】
-- Alle der leder efter en pålidelig løsning
-- Brugere der værdsætter enkelhed og effektivitet
-- Folk der ønsker at strømline deres arbejdsgang
+[Start gratis]
+- Download og begynd at optage milepæle uden omkostning
+- Premium-abonnement låser op for ubegrænsede optegnelser og 4K kort-eksport
 
-【Privatliv & Sikkerhed】
-Dine data opbevares sikkert på din enhed.
+[Premium-abonnement]
+- Baby Mile Premium: månedlig plan (¥480/måned eller lokal ækvivalent)
+- Lås ubegrænsede optegnelser og 4K kort-eksport op
+- Abonnement fornyes automatisk medmindre det annulleres 24 timer før periodens slutning
+- Betaling opkræves på Apple ID-kontoen ved køb
+- Administrer abonnementer i Apple ID-kontoindstillinger
 
-Privatlivspolitik: https://kikiki-flutter-template-prod.web.app/privacy.html
-Betingelser for brug: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Download nu og oplev forskellen!
+Privatlivspolitik: https://baby-mile-prod.web.app/privacy.html
+Vilkår for brug: https://baby-mile-prod.web.app/terms.html

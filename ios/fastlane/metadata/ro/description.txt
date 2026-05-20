@@ -1,23 +1,27 @@
-Bine ați venit la Test App!
+Nu uita niciodată primul zâmbet, primii pași sau primele cuvinte ale bebelușului tău. Baby Mile îți ușurează captarea fiecărui moment prețios cu fotografii, date și note. Descarcă gratuit și începe astazi.
 
-O aplicație puternică și intuitivă concepută pentru a vă face viața mai ușoară.
+[Caracteristici principale]
+- Înregistrează peste 50 repere de creștere cu fotografii, date și note
+- Lista de verificare a dezvoltării după vârstă - vezi ce să aștepți lună cu lună
+- Generează automat frumoase carduri-repere în 3 dimensiuni pentru a distribui pe rețelele sociale
+- Vizualizare a cronologiei pentru a privi înapoi la fiecare moment prețios
+- Notificări locale când bebelușul tău atinge o nouă vârstă de reper
 
-【Caracteristici principale】
-- Interfață de utilizator simplă și intuitivă
-- Performanță rapidă și eficientă
-- Stocare securizată a datelor
-- Actualizări și îmbunătățiri regulate
-- Suport pentru modul întunecat
+[Perfect pentru]
+- Părinți ai copiilor cu vârsta 0-3 ani care doresc să înregistreze frumos fiecare "primă" clipă
+- Bunici care urmăresc creșterea nepoților
+- Oricine dorește să păstreze amintirile bebelușului într-un format distribuibil
 
-【Perfect pentru】
-- Oricine caută o soluție de încredere
-- Utilizatori care apreciază simplitatea și eficiența
-- Persoane care doresc să își eficientizeze fluxul de lucru
+[Începe gratuit]
+- Descarcă și începe să înregistrezi repere fără cost
+- Abonamentul premium opțional deblochează înregistrări nelimitate și export 4K
 
-【Confidențialitate și securitate】
-Datele dvs. sunt stocate în siguranță pe dispozitiv.
+[Abonament premium]
+- Baby Mile Premium: plan lunar (¥480/lună sau echivalent local)
+- Deblochează înregistrări de repere nelimitate și export de carduri 4K
+- Abonamentul se reînnoiește automat dacă nu este anulat cu 24 de ore înainte de sfârșitul perioadei
+- Plata se efectuează pe contul Apple ID la confirmare de cumpărare
+- Gestionează abonamentele în Setările contului Apple ID
 
-Politica de confidențialitate: https://kikiki-flutter-template-prod.web.app/privacy.html
-Termeni de utilizare: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Descărcați acum și experimentați diferența!
+Politica de confidențialitate: https://baby-mile-prod.web.app/privacy.html
+Termeni de utilizare: https://baby-mile-prod.web.app/terms.html

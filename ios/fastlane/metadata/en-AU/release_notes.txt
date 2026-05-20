@@ -1,11 +1,12 @@
-Thank you for downloading our app!
+Thank you for downloading Baby Mile!
 
-This version includes:
-- Bug fixes and performance improvements
-- Enhanced user experience
-- Stability improvements
+[Initial Release]
+- Record growth milestones with photos
+- Age-based development checklist
+- Beautiful shareable milestone cards
+- Timeline view
 
 If you have any questions or feedback, please contact us through the in-app support.
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
+Privacy Policy: https://baby-mile-prod.web.app/privacy.html
+Terms of Use: https://baby-mile-prod.web.app/terms.html

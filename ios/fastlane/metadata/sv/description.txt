@@ -1,23 +1,27 @@
-Välkommen till Test App!
+Glöm aldrig ditt barns första leende, första steg eller första ord. Baby Mile gör det enkelt att spara varje viktig milstolpe med foton, datum och anteckningar. Ladda ned gratis och börja idag.
 
-En kraftfull och intuitiv app designad för att göra ditt liv enklare.
+[Huvudfunktioner]
+- Spara 50+ utvecklingsmilstolpar med foto, datum och anteckning
+- Utvecklingschecklista per ålder - se vad du kan förvänta dig varje månad
+- Generera automatiskt vackra milstolpekort i tre storlekar för att dela på sociala medier
+- Tidslinjevy av alla dyrbara ögonblick
+- Lokala meddelanden när ditt barn når en ny viktiga ålder
 
-【Nyckelfunktioner】
-- Enkelt och intuitivt användargränssnitt
-- Snabb och effektiv prestanda
-- Säker datalagring
-- Regelbundna uppdateringar och förbättringar
-- Stöd för mörkt läge
+[Perfekt för]
+- Föräldrar till barn 0-3 år som vill vackert spara varje "första"
+- Morföräldrar som följer sitt barnbarns tillväxt
+- Vem som helst som vill bevara babys minnen i ett delningsbart format
 
-【Perfekt för】
-- Alla som söker en pålitlig lösning
-- Användare som värdesätter enkelhet och effektivitet
-- Personer som vill effektivisera sitt arbetsflöde
+[Börja gratis]
+- Ladda ned och börja spara milstolpar utan kostnad
+- Premium-prenumeration låser upp obegränsade poster och 4K-export
 
-【Integritet och säkerhet】
-Dina data lagras säkert på din enhet.
+[Premium-prenumeration]
+- Baby Mile Premium: månadskplan (¥480/månad eller lokalt motsvarande)
+- Lås upp obegränsade poster och 4K-kartexport
+- Prenumerationen förnyas automatiskt om den inte avbryts 24 timmar före periodens slut
+- Betalning debiteras ditt Apple ID-konto vid köpbekräftelse
+- Hantera prenumerationer i Apple ID-kontoinställningar
 
-Integritetspolicy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Användarvillkor: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Ladda ner nu och upplev skillnaden!
+Integritetspolicy: https://baby-mile-prod.web.app/privacy.html
+Användarvillkor: https://baby-mile-prod.web.app/terms.html

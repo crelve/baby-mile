@@ -1,23 +1,27 @@
-Benvingut a l'App de Prova!
+No oblidis la primera somrisa, els primers passos o les primeres paraules del teu bebè. Baby Mile fa que sigui fàcil capturar cada jalon del desenvolupament amb fotos, dates i notes.
 
-Una aplicació potent i intuïtiva dissenyada per a fer-te la vida més fàcil.
+[Característiques principals]
+- Registra més de 50 jalons de creixement amb foto, data i nota
+- Llista de verificació del desenvolupament per edat - veu què esperar mes a mes
+- Genera automàticament belles targetes de jalons en 3 mides per compartir a les xarxes socials
+- Visualitza la línia de temps per recordar cada moment preciós
+- Notificacions locals quan el teu bebè assoleix una nova edat
 
-【Característiques principals】
-- Interfície d'usuari senzilla i intuïtiva
-- Rendiment ràpid i eficient
-- Emmagatzematge de dades segur
-- Actualitzacions i millores regulars
-- Compatible amb el mode fosc
+[Perfecte per a]
+- Pares de nens d'entre 0-3 anys
+- Avis que volen seguir el creixement dels nens
+- Qualsevol que vulgui conservar les memòries del bebè en un format compartible
 
-【Perfecte per a】
-- Qualsevol persona que busqui una solució fiable
-- Usuaris que valoren la simplicitat i l'eficiència
-- Gent que vol agilitzar el seu flux de treball
+[Comença gratis]
+- Descarrega i comença a registrar jalons sense cost
+- L'abonament premium desbloquejar registres il·limitats i exportació de targetes 4K
 
-【Privacitat i seguretat】
-Les teves dades s'emmagatzemen de manera segura al teu dispositiu.
+[Abonament Premium]
+- Baby Mile Premium: pla mensual (¥480/mes o equivalent local)
+- Desbloqueig de registres il·limitats i exportació de targetes 4K
+- L'abonament es renovarà automàticament tret que es cancel·li 24 hores abans del final del període
+- El pagament es carrega al compte Apple ID en la confirmació de la compra
+- Gestiona els abonaments a la configuració del compte Apple ID
 
-Política de privacitat: https://kikiki-flutter-template-prod.web.app/privacy.html
-Condicions d'ús: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Descarrega ara i experimenta la diferència!
+Política de privacitat: https://baby-mile-prod.web.app/privacy.html
+Condicions d'ús: https://baby-mile-prod.web.app/terms.html

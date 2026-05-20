@@ -1,11 +1,12 @@
-Thank you for downloading our app!
+Dziękujemy za pobranie Baby Mile!
 
-This version includes:
-- Bug fixes and performance improvements
-- Enhanced user experience
-- Stability improvements
+[Wydanie początkowe]
+- Zapisywanie kamieni milowych wzrostu ze zdjęciami
+- Kontrolna lista rozwoju opartą na wieku
+- Piękne karty kamieniami wiejskich do udostępniania
+- Widok osi czasu
 
-If you have any questions or feedback, please contact us through the in-app support.
+Jeśli masz pytania lub opinię, prosimy o kontakt za pośrednictwem wsparcia w aplikacji.
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
+Polityka prywatności: https://baby-mile-prod.web.app/privacy.html
+Warunki użytkowania: https://baby-mile-prod.web.app/terms.html

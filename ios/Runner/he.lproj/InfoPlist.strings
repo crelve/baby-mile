@@ -1,7 +1,5 @@
-/* Hebrew localization */
+/* he localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "המעקב משמש להצגת פרסומות מותאמות אישית.";
-"NSMicrophoneUsageDescription" = "אפליקציה זו אינה משתמשת בתכונות אודיו.";
-"NSPhotoLibraryUsageDescription" = "נדרשת גישה לספריית התמונות לשמירת תמונות.";
-"NSCameraUsageDescription" = "נדרשת גישה למצלמה לצילום תמונות.";
-"NSUserNotificationsUsageDescription" = "אנו זקוקים להרשאת התראות כדי לשלוח לך עדכונים והתראות חשובים.";
+"NSUserTrackingUsageDescription" = "כדי להציג לך פרסומות מותאמות אישית בהתאם לתחומי העניין שלך.";
+"NSPhotoLibraryUsageDescription" = "כדי לבחור ולשמור את תמונות אבני הדרך של תינוקך מספריית התמונות.";
+"NSCameraUsageDescription" = "כדי לצלם תמונות של רגעי אבני הדרך של תינוקך.";

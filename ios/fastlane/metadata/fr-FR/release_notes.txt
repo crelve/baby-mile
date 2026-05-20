@@ -1,11 +1,12 @@
-Merci d'avoir téléchargé notre application !
+Merci d'avoir téléchargé Baby Mile !
 
-Cette version comprend :
-- Corrections de bugs et améliorations des performances
-- Expérience utilisateur améliorée
-- Améliorations de la stabilité
+[Version initiale]
+- Enregistrez les jalons de croissance avec des photos
+- Liste de contrôle du développement par âge
+- Belles cartes de jalon partageables
+- Affichage chronologique
 
-Pour toute question ou commentaire, contactez-nous via le support intégré à l'application.
+Si vous avez des questions ou des commentaires, contactez-nous via le support intégré.
 
-Politique de confidentialité: https://kikiki-flutter-template-prod.web.app/privacy.html
-Conditions d'utilisation: https://kikiki-flutter-template-prod.web.app/terms.html
+Politique de confidentialité : https://baby-mile-prod.web.app/privacy.html
+Conditions d'utilisation : https://baby-mile-prod.web.app/terms.html

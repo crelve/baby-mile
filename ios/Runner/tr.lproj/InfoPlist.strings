@@ -1,7 +1,5 @@
-/* Turkish localization */
+/* tr localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "İzleme, kişiselleştirilmiş reklamlar göstermek için kullanılır.";
-"NSMicrophoneUsageDescription" = "Bu uygulama ses özelliklerini kullanmaz.";
-"NSPhotoLibraryUsageDescription" = "Fotoğrafları kaydetmek için fotoğraf kitaplığı erişimi gereklidir.";
-"NSCameraUsageDescription" = "Fotoğraf çekmek için kamera erişimi gereklidir.";
-"NSUserNotificationsUsageDescription" = "Size önemli güncellemeler ve uyarılar göndermek için bildirim izni gerekiyor.";
+"NSUserTrackingUsageDescription" = "İlgi alanlarınıza göre kişiselleştirilmiş reklamlar göstermek için.";
+"NSPhotoLibraryUsageDescription" = "Bebeğinizin gelişim dönüm noktası fotoğraflarını fotoğraf kitaplığından seçmek ve kaydetmek için.";
+"NSCameraUsageDescription" = "Bebeğinizin gelişim anlarını fotoğraflamak için.";

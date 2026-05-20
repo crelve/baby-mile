@@ -1,23 +1,27 @@
-Welkom bij Test App!
+Vergeet nooit de eerste glimlach, eerste stapjes of eerste woorden van je baby. Baby Mile maakt het eenvoudig om elk ontwikkelings-mijlpaal vast te leggen met foto's, datums en notities.
 
-Een krachtige en intuïtieve app, ontworpen om uw leven gemakkelijker te maken.
+[Hoofdfuncties]
+- Leg meer dan 50 groei-mijlpalen vast met foto, datum en notitie
+- Ontwikkelingschecklist per leeftijd - zie wat je maand per maand kunt verwachten
+- Genereer automatisch mooie mijlpaal-kaarten in 3 maten om op sociale media te delen
+- Tijdlijnweergave om terug te denken aan elk kostbaar moment
+- Lokale meldingen als je baby een nieuwe leeftijds-mijlpaal bereikt
 
-【Belangrijkste Kenmerken】
-- Eenvoudige en intuïtieve gebruikersinterface
-- Snelle en efficiënte prestaties
-- Veilige gegevensopslag
-- Regelmatige updates en verbeteringen
-- Ondersteuning voor donkere modus
+[Perfect voor]
+- Ouders van kinderen van 0-3 jaar
+- Grootouders die de groei van hun kleinkinderen volgen
+- Iedereen die baby-herinneringen op een delen manier wil bewaren
 
-【Perfect Voor】
-- Iedereen die op zoek is naar een betrouwbare oplossing
-- Gebruikers die waarde hechten aan eenvoud en efficiëntie
-- Mensen die hun workflow willen stroomlijnen
+[Start gratis]
+- Download en begin met het vastleggen van mijlpalen zonder kosten
+- Premium-abonnement ontgrendelt onbeperkte vastlegging en 4K kaart-export
 
-【Privacy en Veiligheid】
-Uw gegevens worden veilig opgeslagen op uw apparaat.
+[Premium-abonnement]
+- Baby Mile Premium: maandelijks plan (¥480/maand of lokaal equivalent)
+- Ontgrendel onbeperkte vastlegging en 4K kaart-export
+- Het abonnement verlengt zich automatisch tenzij het 24 uur voor het einde van de periode wordt geannuleerd
+- Betaling wordt in rekening gebracht op je Apple ID-account bij aankoop
+- Beheer abonnementen in Apple ID-accountinstellingen
 
-Privacybeleid: https://kikiki-flutter-template-prod.web.app/privacy.html
-Gebruiksvoorwaarden: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Download nu en ervaar het verschil!
+Privacybeleid: https://baby-mile-prod.web.app/privacy.html
+Gebruiksvoorwaarden: https://baby-mile-prod.web.app/terms.html

@@ -1,11 +1,12 @@
-Thank you for downloading our app!
+Gràcies per descarregar Baby Mile!
 
-This version includes:
-- Bug fixes and performance improvements
-- Enhanced user experience
-- Stability improvements
+[Versió inicial]
+- Registra jalons de creixement amb fotos
+- Llista de verificació del desenvolupament per edat
+- Belles targetes de jalons compartibles
+- Visualització de la línia de temps
 
-If you have any questions or feedback, please contact us through the in-app support.
+Si tens alguna pregunta o comentari, contacta'ns a través del suport dins de l'aplicació.
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
+Política de privacitat: https://baby-mile-prod.web.app/privacy.html
+Condicions d'ús: https://baby-mile-prod.web.app/terms.html

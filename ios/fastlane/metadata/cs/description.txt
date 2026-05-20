@@ -1,23 +1,27 @@
-Vítejte v Test App!
+Nikdy nezapomeň první úsměv, první krůčky nebo první slova tvého miminko. Baby Mile usnadňuje zachytávání každého milníku vývoje s fotografiemi, datumy a poznámkami.
 
-Výkonná a intuitivní aplikace navržená tak, aby vám usnadnila život.
+[Hlavní funkce]
+- Zaznamenávej přes 50 milníků vývoje s fotografií, datem a poznámkou
+- Kontrolní seznam vývoje dle věku - vím co očekávat měsíc od měsíce
+- Automaticky generuj krásné kartičky milníků ve 3 velikostech ke sdílení na sociálních sítích
+- Časová osa pro vzpomínání na každý cenný moment
+- Lokální oznámení, když tvoje miminko dosáhne nového věkového milníku
 
-【Klíčové vlastnosti】
-- Jednoduché a intuitivní uživatelské rozhraní
-- Rychlý a efektivní výkon
-- Bezpečné ukládání dat
-- Pravidelné aktualizace a vylepšení
-- Podpora tmavého režimu
+[Ideální pro]
+- Rodiče dětí ve věku 0-3 let
+- Babičky a dědečky sledující růst vnoučat
+- Kohokoli, kdo chce uchovávat vzpomínky na miminko v podobě, kterou lze sdílet
 
-【Ideální pro】
-- Každého, kdo hledá spolehlivé řešení
-- Uživatelé, kteří si cení jednoduchosti a efektivity
-- Lidi, kteří chtějí zefektivnit svůj pracovní postup
+[Začni zdarma]
+- Stáhni aplikaci a začni zaznamenávat milníky bez nákladů
+- Premium předplatné odemkne neomezené záznamy a export kartiček 4K
 
-【Soukromí a bezpečnost】
-Vaše data jsou bezpečně uložena na vašem zařízení.
+[Premium předplatné]
+- Baby Mile Premium: měsíční plán (¥480/měsíc nebo místní ekvivalent)
+- Odemkni neomezené záznamy a export kartiček 4K
+- Předplatné se automaticky obnovuje, pokud jej nezrušíš 24 hodin před koncem období
+- Poplatek je účtován na Apple ID účet při potvrzení nákupu
+- Spravuj předplatná v nastavení Apple ID účtu
 
-Zásady ochrany osobních údajů: https://kikiki-flutter-template-prod.web.app/privacy.html
-Podmínky použití: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Stáhněte si nyní a zažijte ten rozdíl!
+Zásady ochrany osobních údajů: https://baby-mile-prod.web.app/privacy.html
+Podmínky použití: https://baby-mile-prod.web.app/terms.html

@@ -1,7 +1,5 @@
-/* Czech localization */
+/* cs localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Sledování se používá k zobrazení personalizovaných reklam.";
-"NSMicrophoneUsageDescription" = "Tato aplikace nepoužívá zvukové funkce.";
-"NSPhotoLibraryUsageDescription" = "Pro uložení fotografií je nutný přístup k knihovně fotografií.";
-"NSCameraUsageDescription" = "Pro pořízení fotografií je nutný přístup k fotoaparátu.";
-"NSUserNotificationsUsageDescription" = "Potřebujeme povolení k oznámením, abychom vám mohli posílat důležité aktualizace a upozornění.";
+"NSUserTrackingUsageDescription" = "K zobrazení personalizovaných reklam podle vašich zájmů.";
+"NSPhotoLibraryUsageDescription" = "K výběru a uložení fotografií milníků vašeho dítěte z knihovny fotografií.";
+"NSCameraUsageDescription" = "K pořizování fotografií zachycujících milníky vašeho dítěte.";

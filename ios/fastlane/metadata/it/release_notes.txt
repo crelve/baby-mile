@@ -1,11 +1,12 @@
-Grazie per aver scaricato la nostra app!
+Grazie per aver scaricato Baby Mile!
 
-Questa versione include:
-- Correzioni di bug e miglioramenti delle prestazioni
-- Esperienza utente migliorata
-- Miglioramenti della stabilità
+[Versione Iniziale]
+- Registra i traguardi della crescita con foto
+- Elenco di controllo dello sviluppo per età
+- Bellissime cartoline da condividere
+- Vista della cronologia
 
-Per domande o feedback, contattaci tramite il supporto in-app.
+Se hai domande o feedback, contattaci tramite il supporto in-app.
 
-Informativa sulla privacy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Termini di utilizzo: https://kikiki-flutter-template-prod.web.app/terms.html
+Informativa sulla Privacy: https://baby-mile-prod.web.app/privacy.html
+Condizioni d'Uso: https://baby-mile-prod.web.app/terms.html

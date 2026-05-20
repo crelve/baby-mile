@@ -1,7 +1,5 @@
-/* Malay localization */
+/* ms localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Penjejakan digunakan untuk memaparkan iklan yang diperibadikan.";
-"NSMicrophoneUsageDescription" = "Aplikasi ini tidak menggunakan ciri audio.";
-"NSPhotoLibraryUsageDescription" = "Akses perpustakaan foto diperlukan untuk menyimpan foto.";
-"NSCameraUsageDescription" = "Akses kamera diperlukan untuk mengambil foto.";
-"NSUserNotificationsUsageDescription" = "Kami memerlukan kebenaran pemberitahuan untuk menghantar kemas kini dan amaran penting kepada anda.";
+"NSUserTrackingUsageDescription" = "Untuk menunjukkan iklan diperibadikan berdasarkan minat anda.";
+"NSPhotoLibraryUsageDescription" = "Untuk memilih dan menyimpan foto pencapaian bayi anda dari pustaka foto.";
+"NSCameraUsageDescription" = "Untuk mengambil foto detik pencapaian bayi anda.";

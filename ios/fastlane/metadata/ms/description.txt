@@ -1,23 +1,27 @@
-Selamat datang ke Test App!
+Jangan lupa senyuman pertama, langkah pertama, atau kata-kata pertama bayi Anda. Baby Mile memudahkan untuk menangkap setiap momen berharga dengan foto, tarikh, dan nota. Muat turun percuma dan mulai hari ini.
 
-Aplikasi yang berkuasa dan intuitif direka untuk memudahkan hidup anda.
+[Ciri-Ciri Utama]
+- Rakam lebih dari 50 pencapaian pertumbuhan dengan foto, tarikh, dan memo
+- Senarai semak perkembangan mengikut umur - lihat apa yang dijangka setiap bulan
+- Hasilkan kad pencapaian cantik secara automatik dalam 3 saiz untuk berkongsi di media sosial
+- Paparan garis masa untuk melihat kembali setiap momen berharga
+- Notifikasi tempatan apabila bayi Anda mencapai umur pencapaian baharu
 
-【Ciri-ciri Utama】
-- Antara muka pengguna yang ringkas dan intuitif
-- Prestasi yang pantas dan cekap
-- Storan data yang selamat
-- Kemas kini dan penambahbaikan berkala
-- Sokongan mod gelap
+[Sempurna Untuk]
+- Ibu bapa anak berusia 0-3 tahun yang ingin merakam setiap "pertama" dengan indah
+- Nenek dan atuk mengikuti pertumbuhan cucu mereka
+- Sesiapa yang ingin menyimpan kenangan bayi dalam format yang boleh dikongsi
 
-【Sesuai Untuk】
-- Sesiapa sahaja yang mencari penyelesaian yang boleh dipercayai
-- Pengguna yang menghargai kesederhanaan dan kecekapan
-- Mereka yang ingin menyelaraskan aliran kerja mereka
+[Mulai Percuma]
+- Muat turun dan mulai merakam pencapaian tanpa bayaran
+- Langganan premium pilihan membuka rekam pencapaian tanpa had dan eksport 4K
 
-【Privasi & Keselamatan】
-Data anda disimpan dengan selamat pada peranti anda.
+[Langganan Premium]
+- Baby Mile Premium: pelan bulanan (¥480/bulan atau setara tempatan)
+- Buka rekam pencapaian tanpa had dan eksport kad 4K
+- Langganan diperbaharui secara automatik melainkan dibatalkan 24 jam sebelum akhir tempoh
+- Bayaran dicaj ke akaun Apple ID pada pengesahan pembelian
+- Kelola langganan dalam Tetapan Akaun Apple ID
 
-Dasar Privasi: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terma Penggunaan: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Muat turun sekarang dan rasai perbezaannya!
+Dasar Privasi: https://baby-mile-prod.web.app/privacy.html
+Syarat Penggunaan: https://baby-mile-prod.web.app/terms.html

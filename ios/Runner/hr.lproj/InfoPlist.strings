@@ -1,7 +1,5 @@
-/* Croatian localization */
+/* hr localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Praćenje se koristi za prikazivanje personaliziranih oglasa.";
-"NSMicrophoneUsageDescription" = "Ova aplikacija ne koristi audio značajke.";
-"NSPhotoLibraryUsageDescription" = "Pristup biblioteci fotografija potreban je za spremanje fotografija.";
-"NSCameraUsageDescription" = "Pristup kameri potreban je za snimanje fotografija.";
-"NSUserNotificationsUsageDescription" = "Potrebna nam je dozvola za obavijesti kako bismo vam mogli slati važna ažuriranja i upozorenja.";
+"NSUserTrackingUsageDescription" = "Za prikaz personaliziranih oglasa na temelju vaših interesa.";
+"NSPhotoLibraryUsageDescription" = "Za odabir i spremanje fotografija prekretnica vašeg djeteta iz biblioteke fotografija.";
+"NSCameraUsageDescription" = "Za snimanje fotografija trenutaka prekretnica vašeg djeteta.";

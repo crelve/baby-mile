@@ -1,11 +1,12 @@
-Köszönjük, hogy letöltötted az alkalmazásunkat!
+Köszönjük hogy letöltötte a Baby Mile alkalmazást!
 
-Ez a verzió a következőket tartalmazza:
-- Hibajavítások és teljesítménybeli fejlesztések
-- Továbbfejlesztett felhasználói élmény
-- Stabilitási fejlesztések
+[Kezdeti kiadás]
+- Rögzítse fejlődési mérföldköveket fotókkal
+- Korbased fejlődési ellenőrzési lista
+- Csodálatos megosztható mérföldkő kártyák
+- Idősor nézet
 
-Ha bármilyen kérdésed vagy visszajelzésed van, kérjük, vedd fel velünk a kapcsolatot az alkalmazáson belüli támogatáson keresztül.
+Ha kérdése vagy visszajelzése van, forduljon hozzánk az alkalmazáson belüli támogatáson keresztül.
 
-Adatvédelmi szabályzat: https://kikiki-flutter-template-prod.web.app/privacy.html
-Felhasználási feltételek: https://kikiki-flutter-template-prod.web.app/terms.html
+Adatvédelmi irányelvek: https://baby-mile-prod.web.app/privacy.html
+Felhasználási feltételek: https://baby-mile-prod.web.app/terms.html

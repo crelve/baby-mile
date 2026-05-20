@@ -18,10 +18,10 @@
 - [x] `/release:step:04-screen-structure` - 画面構成設計
 - [x] `/release:step:05-project-deploy` - デプロイ
 - [x] `/release:step:06-setup-auto-implementation` - Issues作成・環境構築
-- [ ] `/release:step:07-implement-issue` - Issue自動実装
-- [ ] `/release:step:08-requirements-check` - 要件適合性チェック
-- [ ] `/release:step:09-quality-rules-check` - 品質ルール確認
-- [ ] `/release:step:09b-infoplist-check` - InfoPlist.strings パーミッション確認・修正
+- [x] `/release:step:07-implement-issue` - Issue自動実装
+- [x] `/release:step:08-requirements-check` - 要件適合性チェック
+- [x] `/release:step:09-quality-rules-check` - 品質ルール確認
+- [x] `/release:step:09b-infoplist-check` - InfoPlist.strings パーミッション確認・修正
 - [ ] `/release:step:10-appstore-metadata` - メタデータ生成
 - [ ] `/release:step:11-monetization-complete` - AdMob設定
 - [ ] `/release:step:12-ios-certificate-setup` - iOS証明書

@@ -1,11 +1,12 @@
-Hvala vam što ste preuzeli našu aplikaciju!
+Hvala što si preuzeo Baby Mile!
 
-Ova verzija uključuje:
-- Ispravci grešaka i poboljšanja performansi
-- Poboljšano korisničko iskustvo
-- Poboljšanja stabilnosti
+[Početna verzija]
+- Bilježi razvojne etape fotografijama
+- Ljestvica razvoja po dobi
+- Lijepe kartice razvojnih etapa za dijeljenje
+- Vremenska traka
 
-Ako imate pitanja ili povratnih informacija, kontaktirajte nas putem podrške u aplikaciji.
+Ako imaš pitanja ili povratne informacije, slobodno nas kontaktiraj kroz podršku u aplikaciji.
 
-Pravila privatnosti: https://kikiki-flutter-template-prod.web.app/privacy.html
-Uvjeti korištenja: https://kikiki-flutter-template-prod.web.app/terms.html
+Politika privatnosti: https://baby-mile-prod.web.app/privacy.html
+Uvjeti korištenja: https://baby-mile-prod.web.app/terms.html

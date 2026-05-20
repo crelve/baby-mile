@@ -1,23 +1,27 @@
-Witamy w Test App!
+Nigdy nie zapomnij pierwszego uśmiechu, pierwszych kroków ani pierwszych słów swojego dziecka. Baby Mile ułatwia uchwycenie każdego cennego momentu za pomocą zdjęć, dat i notatek. Pobierz bezpłatnie i zacznij dzisiaj.
 
-Potężna i intuicyjna aplikacja zaprojektowana, aby ułatwić Ci życie.
+[Główne funkcje]
+- Zapisz ponad 50 kamieni milowych wzrostu ze zdjęciami, datami i notatkami
+- Kontrolna lista rozwoju opartą na wieku - zobacz, czego spodziewać się miesiąc po miesiącu
+- Automatyczne generowanie pięknych kart kamieniami wiejskich w 3 rozmiarach do udostępniania w mediach społecznościowych
+- Widok osi czasu, aby powrócić do każdego cennego momentu
+- Powiadomienia lokalne, gdy dziecko osiągnie nowy kamień milowy
 
-【Główne funkcje】
-- Prosty i intuicyjny interfejs użytkownika
-- Szybka i wydajna praca
-- Bezpieczne przechowywanie danych
-- Regularne aktualizacje i ulepszenia
-- Obsługa trybu ciemnego
+[Idealne dla]
+- Rodziców dzieci w wieku 0-3 lat, którzy chcą pięknie zapisać każdy "pierwszy" moment
+- Dziadków śledzących wzrost wnuka
+- Każdego, kto chce zachować wspomnienia dziecka w udostępnialnym formacie
 
-【Idealna dla】
-- Każdego, kto szuka niezawodnego rozwiązania
-- Użytkowników, którzy cenią prostotę i wydajność
-- Osób, które chcą usprawnić swoją pracę
+[Zacznij bezpłatnie]
+- Pobierz i zacznij zapisywać kamienie milowe bez kosztów
+- Opcjonalna subskrypcja premium odblokowuje nieograniczone zapisy i eksport 4K
 
-【Prywatność i bezpieczeństwo】
-Twoje dane są bezpiecznie przechowywane na Twoim urządzeniu.
+[Subskrypcja premium]
+- Baby Mile Premium: plan miesięczny (¥480/miesiąc lub równoważna waluta lokalna)
+- Odblokuj nieograniczone zapisy kamieni milowych i eksport kart 4K
+- Subskrypcja odnawiająca się automatycznie, chyba że zostanie anulowana 24 godziny przed końcem okresu
+- Opłata pobierana z konta Apple ID przy potwierdzeniu zakupu
+- Zarządzaj subskrypcjami w ustawieniach konta Apple ID
 
-Polityka prywatności: https://kikiki-flutter-template-prod.web.app/privacy.html
-Warunki użytkowania: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Pobierz teraz i poczuj różnicę!
+Polityka prywatności: https://baby-mile-prod.web.app/privacy.html
+Warunki użytkowania: https://baby-mile-prod.web.app/terms.html

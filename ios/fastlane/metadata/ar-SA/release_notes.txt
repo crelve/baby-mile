@@ -1,11 +1,12 @@
-Thank you for downloading our app!
+شكراً لتحميل Baby Mile!
 
-This version includes:
-- Bug fixes and performance improvements
-- Enhanced user experience
-- Stability improvements
+[الإصدار الأول]
+- سجل علامات النمو بالصور
+- قائمة فحص النمو حسب العمر
+- بطاقات علامات نمو جميلة قابلة للمشاركة
+- عرض المسار الزمني
 
-If you have any questions or feedback, please contact us through the in-app support.
+إذا كان لديك أي أسئلة أو تعليقات، يرجى الاتصال بنا من خلال الدعم داخل التطبيق.
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
+سياسة الخصوصية: https://baby-mile-prod.web.app/privacy.html
+شروط الاستخدام: https://baby-mile-prod.web.app/terms.html

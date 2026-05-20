@@ -1,23 +1,27 @@
-Selamat datang di Aplikasi Uji!
+Jangan pernah lupa senyum pertama, langkah pertama, atau kata pertama bayi Anda. Baby Mile membuat mudah menangkap setiap momen berharga dengan foto, tanggal, dan catatan. Unduh gratis dan mulai hari ini.
 
-Aplikasi yang kuat dan intuitif, dirancang untuk membuat hidup Anda lebih mudah.
+[Fitur Utama]
+- Catat 50+ pencapaian pertumbuhan dengan foto, tanggal, dan memo
+- Daftar periksa perkembangan berdasarkan usia - lihat apa yang diharapkan bulan per bulan
+- Hasilkan kartu momen indah secara otomatis dalam 3 ukuran untuk dibagikan di media sosial
+- Tampilan garis waktu untuk melihat kembali setiap momen berharga
+- Pemberitahuan lokal ketika bayi Anda mencapai usia tonggak baru
 
-【Fitur Utama】
-- Antarmuka pengguna yang sederhana dan intuitif
-- Performa yang cepat dan efisien
-- Penyimpanan data yang aman
-- Pembaruan dan peningkatan berkala
-- Dukungan mode gelap
+[Sempurna Untuk]
+- Orang tua anak berusia 0-3 tahun yang ingin mencatat setiap "pertama" dengan indah
+- Nenek dan kakek mengikuti pertumbuhan cucu mereka
+- Siapa pun yang ingin menyimpan kenangan bayi dalam format yang dapat dibagikan
 
-【Sempurna Untuk】
-- Siapa pun yang mencari solusi yang andal
-- Pengguna yang menghargai kesederhanaan dan efisiensi
-- Orang yang ingin merampingkan alur kerja mereka
+[Mulai Gratis]
+- Unduh dan mulai mencatat tonggak tanpa biaya
+- Langganan premium opsional membuka rekam tonggak tanpa batas dan ekspor kartu 4K
 
-【Privasi & Keamanan】
-Data Anda disimpan dengan aman di perangkat Anda.
+[Langganan Premium]
+- Baby Mile Premium: paket bulanan (¥480/bulan atau setara lokal)
+- Buka rekam tonggak tanpa batas dan ekspor kartu 4K
+- Langganan otomatis diperbaharui kecuali dibatalkan 24 jam sebelum akhir periode
+- Pembayaran dikenakan ke akun Apple ID saat konfirmasi pembelian
+- Kelola langganan di Pengaturan Akun Apple ID
 
-Kebijakan Privasi: https://kikiki-flutter-template-prod.web.app/privacy.html
-Ketentuan Penggunaan: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Unduh sekarang dan rasakan perbedaannya!
+Kebijakan Privasi: https://baby-mile-prod.web.app/privacy.html
+Syarat Penggunaan: https://baby-mile-prod.web.app/terms.html

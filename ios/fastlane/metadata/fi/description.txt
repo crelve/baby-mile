@@ -1,23 +1,27 @@
-Welcome to Test App!
+Älä koskaan unohda vauvan ensimmäistä hymyä, ensimmäisiä askelia tai ensimmäisiä sanoja. Baby Mile tekee vaivattomaksi jokaisen virstanpylvään kaappaamisen valokuvilla, päivämäärillä ja muistiinpanoilla. Lataa ilmaiseksi ja aloita tänään.
 
-A powerful and intuitive app designed to make your life easier.
+[Tärkeimmät ominaisuudet]
+- Tallenna 50+ kehitysvirstanpylvästä valokuvalla, päivämäärällä ja muistiolla
+- Ikäpohjainen kehityksen tarkistuslista - näe mitä odottaa kuukausi kerrallaan
+- Luo automaattisesti kauniita virstanpylvääkortteja 3 kokoon sosiaaliseen mediaan
+- Aikajanalista katsoaksesi joka kalliista hetkestä
+- Paikalliset ilmoitukset kun vauva saavuttaa uuden virstanpylvään iän
 
-【Key Features】
-- Simple and intuitive user interface
-- Fast and efficient performance
-- Secure data storage
-- Regular updates and improvements
-- Dark mode support
+[Sopii parhaiten]
+- Alle 3-vuotiaiden vauvojen vanhemmille jotka haluavat tallentaa jokaisen "ensimmäisen" kauniisti
+- Isoille ja isoäideille jotka seuraavat lapsenlapsen kehitystä
+- Kaikille jotka haluavat säilyttää vauvan muistot jaettavassa muodossa
 
-【Perfect For】
-- Anyone looking for a reliable solution
-- Users who value simplicity and efficiency
-- People who want to streamline their workflow
+[Aloita ilmaiseksi]
+- Lataa ja aloita virstanpylvään tallentaminen ilman kuluja
+- Valinnainen premium-tilaus avaa rajoittamattoman tallentamisen ja 4K-kortin viennin
 
-【Privacy & Security】
-Your data is stored securely on your device.
+[Premium-tilaus]
+- Baby Mile Premium: kuukausittainen palvelu (¥480/kuukausi tai paikallinen vastaava)
+- Avaa rajoittamaton virstanpylvään tallennus ja 4K-kortin vienti
+- Tilaus uusiutuu automaattisesti ellei peruuta 24 tuntia ennen kauden päättymistä
+- Maksu veloitetaan Apple ID -tililtä ostohetkellä
+- Hallitse tilauksia Apple ID -tiliasetuksissa
 
-Privacy Policy: https://kikiki-flutter-template-prod.web.app/privacy.html
-Terms of Use: https://kikiki-flutter-template-prod.web.app/terms.html
-
-Download now and experience the difference!
+Yksityisyyskäytäntö: https://baby-mile-prod.web.app/privacy.html
+Käyttöehdot: https://baby-mile-prod.web.app/terms.html

@@ -1,7 +1,5 @@
-/* Korean localization */
+/* ko localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "추적은 개인화된 광고를 표시하는 데 사용됩니다.";
-"NSMicrophoneUsageDescription" = "이 앱은 오디오 기능을 사용하지 않습니다.";
-"NSPhotoLibraryUsageDescription" = "사진을 저장하려면 사진 라이브러리 접근이 필요합니다.";
-"NSCameraUsageDescription" = "사진을 찍으려면 카메라 접근이 필요합니다.";
-"NSUserNotificationsUsageDescription" = "중요한 업데이트 및 알림을 보내기 위해 알림 권한이 필요합니다.";
+"NSUserTrackingUsageDescription" = "관심사에 맞는 맞춤형 광고를 표시하기 위해 사용됩니다.";
+"NSPhotoLibraryUsageDescription" = "사진 보관함에서 아기의 성장 기록 사진을 선택하고 저장하기 위해 사용됩니다.";
+"NSCameraUsageDescription" = "아기의 성장 순간을 촬영하기 위해 사용됩니다.";

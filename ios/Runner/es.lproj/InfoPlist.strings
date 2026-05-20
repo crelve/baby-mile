@@ -1,7 +1,5 @@
-/* Spanish localization */
+/* es localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "El seguimiento se utiliza para mostrar anuncios personalizados.";
-"NSMicrophoneUsageDescription" = "Esta aplicación no utiliza funciones de audio.";
-"NSPhotoLibraryUsageDescription" = "Se requiere acceso a la biblioteca de fotos para guardar fotos.";
-"NSCameraUsageDescription" = "Se requiere acceso a la cámara para tomar fotos.";
-"NSUserNotificationsUsageDescription" = "Necesitamos permiso de notificaciones para enviarle actualizaciones y alertas importantes.";
+"NSUserTrackingUsageDescription" = "Para mostrarte anuncios personalizados según tus intereses.";
+"NSPhotoLibraryUsageDescription" = "Para seleccionar y guardar las fotos de los hitos de tu bebé desde tu fototeca.";
+"NSCameraUsageDescription" = "Para tomar fotos de los momentos destacados de tu bebé.";

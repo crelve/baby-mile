@@ -1,7 +1,5 @@
-/* Finnish localization */
+/* fi localization */
 "CFBundleDisplayName" = "Baby Mile";
-"NSUserTrackingUsageDescription" = "Seurantaa käytetään personoitujen mainosten näyttämiseen.";
-"NSMicrophoneUsageDescription" = "Tämä sovellus ei käytä äänitoimintoja.";
-"NSPhotoLibraryUsageDescription" = "Valokuvakirjaston käyttöoikeus vaaditaan kuvien tallentamiseen.";
-"NSCameraUsageDescription" = "Kameran käyttöoikeus vaaditaan kuvien ottamiseen.";
-"NSUserNotificationsUsageDescription" = "Tarvitsemme ilmoitusluvan lähettääksemme sinulle tärkeitä päivityksiä ja hälytyksiä.";
+"NSUserTrackingUsageDescription" = "Näyttääksemme sinulle kiinnostuksesi mukaan räätälöityjä mainoksia.";
+"NSPhotoLibraryUsageDescription" = "Vauvasi virstanpylväskuvien valitsemiseen ja tallentamiseen kuvakirjastosta.";
+"NSCameraUsageDescription" = "Vauvasi virstanpylväshetkien valokuvaamiseen.";
