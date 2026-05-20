@@ -344,5 +344,308 @@ class AppLocalizationsRo extends AppLocalizations {
       'Vizualizați politica de confidențialitate';
 
   @override
-  String get appName => 'MangaTrack';
+  String get appName => 'Baby Mile';
+
+  @override
+  String get homeTabTitle => 'Acasă';
+
+  @override
+  String get checklistTabTitle => 'Listă';
+
+  @override
+  String get timelineTabTitle => 'Cronologie';
+
+  @override
+  String get cardTabTitle => 'Carduri';
+
+  @override
+  String get settingsTabTitle => 'Setări';
+
+  @override
+  String homeGreeting(Object name) {
+    return '$name';
+  }
+
+  @override
+  String ageMonths(int months) {
+    return '$months luni';
+  }
+
+  @override
+  String get recentMilestones => 'Repere recente';
+
+  @override
+  String get thisMonthChecklist => 'De verificat luna aceasta';
+
+  @override
+  String get recordMilestone => 'Înregistrează reper';
+
+  @override
+  String get makeCard => 'Creează card';
+
+  @override
+  String get noMilestonesYet => 'Niciun reper încă';
+
+  @override
+  String get selectPreset => 'Alege reper';
+
+  @override
+  String get customMilestone => 'Personalizat';
+
+  @override
+  String get milestoneTitleLabel => 'Titlu';
+
+  @override
+  String get selectDate => 'Data';
+
+  @override
+  String get addPhoto => 'Adaugă foto';
+
+  @override
+  String get takePhoto => 'Fă o poză';
+
+  @override
+  String get chooseFromLibrary => 'Alege din galerie';
+
+  @override
+  String get memoLabel => 'Notă';
+
+  @override
+  String get memoHint => 'Adaugă o notă (opțional)';
+
+  @override
+  String get save => 'Salvează';
+
+  @override
+  String get delete => 'Șterge';
+
+  @override
+  String get cancel => 'Anulează';
+
+  @override
+  String get milestoneSaved => 'Reper salvat';
+
+  @override
+  String get selectCategory => 'Toate';
+
+  @override
+  String get categoryMotor => 'Motor';
+
+  @override
+  String get categoryLanguage => 'Limbaj';
+
+  @override
+  String get categorySocial => 'Social';
+
+  @override
+  String get categoryCognitive => 'Cognitiv';
+
+  @override
+  String get cardSizePortrait => 'Portret';
+
+  @override
+  String get cardSizeSquare => 'Pătrat';
+
+  @override
+  String get cardSizeLandscape => 'Peisaj';
+
+  @override
+  String get shareCard => 'Distribuie';
+
+  @override
+  String get export4k => 'Exportă în 4K';
+
+  @override
+  String get cardNoData => 'Înregistrează un reper pentru a crea un card';
+
+  @override
+  String get onboardingNameTitle => 'Cum se numește bebelușul?';
+
+  @override
+  String get onboardingNameHint => 'Numele bebelușului';
+
+  @override
+  String get onboardingBirthdayTitle => 'Când s-a născut bebelușul?';
+
+  @override
+  String get onboardingFirstRecordTitle => 'Înregistrează primul reper';
+
+  @override
+  String get getStarted => 'Începe';
+
+  @override
+  String get notificationSetting => 'Notificări';
+
+  @override
+  String get manageBabies => 'Gestionează copiii';
+
+  @override
+  String get addChild => 'Adaugă copil';
+
+  @override
+  String get milestoneUpcomingTitle => 'Urmează un nou reper!';
+
+  @override
+  String milestoneUpcomingBody(int months) {
+    return 'Bebelușul tău împlinește $months luni. Vezi noile repere!';
+  }
+
+  @override
+  String get milestoneFirstGaze => 'First eye contact';
+
+  @override
+  String get milestoneReactToSound => 'Reacts to sound';
+
+  @override
+  String get milestoneFirstCryMeaning => 'Different cries';
+
+  @override
+  String get milestoneGraspReflex => 'Grasp reflex';
+
+  @override
+  String get milestoneFirstSmile => 'First smile';
+
+  @override
+  String get milestoneLiftHead => 'Lifts head';
+
+  @override
+  String get milestoneCooSound => 'Cooing';
+
+  @override
+  String get milestoneFollowObject => 'Follows objects';
+
+  @override
+  String get milestoneSocialSmile => 'Social smile';
+
+  @override
+  String get milestoneHoldHeadSteady => 'Holds head steady';
+
+  @override
+  String get milestoneLaughOutLoud => 'Laughs out loud';
+
+  @override
+  String get milestoneReachForToy => 'Reaches for toys';
+
+  @override
+  String get milestoneBabble => 'Babbles';
+
+  @override
+  String get milestoneRecognizeParent => 'Recognizes parents';
+
+  @override
+  String get milestoneRollover => 'Rolls over';
+
+  @override
+  String get milestoneGrabObject => 'Grabs objects';
+
+  @override
+  String get milestoneSitWithSupport => 'Sits with support';
+
+  @override
+  String get milestoneRespondToName => 'Responds to name';
+
+  @override
+  String get milestoneMouthObject => 'Explores with mouth';
+
+  @override
+  String get milestoneFirstSolidFood => 'First solid food';
+
+  @override
+  String get milestoneSitUnaided => 'Sits unaided';
+
+  @override
+  String get milestoneCrawl => 'Crawls';
+
+  @override
+  String get milestoneFirstTooth => 'First tooth';
+
+  @override
+  String get milestoneSayMamaPapa => 'Says mama/papa';
+
+  @override
+  String get milestoneWaveBye => 'Waves bye-bye';
+
+  @override
+  String get milestonePassObject => 'Passes object hand to hand';
+
+  @override
+  String get milestonePeekaboo => 'Plays peekaboo';
+
+  @override
+  String get milestonePullToStand => 'Pulls to stand';
+
+  @override
+  String get milestoneCruiseFurniture => 'Cruises furniture';
+
+  @override
+  String get milestonePincerGrasp => 'Pincer grasp';
+
+  @override
+  String get milestoneClapHands => 'Claps hands';
+
+  @override
+  String get milestoneUnderstandNo => 'Understands \"no\"';
+
+  @override
+  String get milestonePointAtThings => 'Points at things';
+
+  @override
+  String get milestoneFirstSteps => 'First steps';
+
+  @override
+  String get milestoneFirstWord => 'First word';
+
+  @override
+  String get milestoneDrinkFromCup => 'Drinks from cup';
+
+  @override
+  String get milestoneStackBlocks => 'Stacks blocks';
+
+  @override
+  String get milestoneWalkWell => 'Walks well';
+
+  @override
+  String get milestoneUseSpoon => 'Uses a spoon';
+
+  @override
+  String get milestoneFollowInstruction => 'Follows instructions';
+
+  @override
+  String get milestoneRun => 'Runs';
+
+  @override
+  String get milestoneTwoWordPhrase => 'Two-word phrases';
+
+  @override
+  String get milestoneKickBall => 'Kicks a ball';
+
+  @override
+  String get milestoneScribble => 'Scribbles';
+
+  @override
+  String get milestoneNameBodyParts => 'Names body parts';
+
+  @override
+  String get milestonePretendPlay => 'Pretend play';
+
+  @override
+  String get milestoneJump => 'Jumps';
+
+  @override
+  String get milestoneShortSentence => 'Short sentences';
+
+  @override
+  String get milestoneNameColors => 'Names colors';
+
+  @override
+  String get milestoneSortShapes => 'Sorts shapes';
+
+  @override
+  String get milestonePottyTraining => 'Potty training';
+
+  @override
+  String get milestonePlayWithOthers => 'Plays with others';
+
+  @override
+  String get milestoneClimbStairs => 'Climbs stairs';
 }

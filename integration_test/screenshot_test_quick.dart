@@ -2,14 +2,14 @@
 
 import 'dart:io';
 
+import 'package:baby_mile/firebase_options.dart';
+import 'package:baby_mile/import/screen.dart';
+import 'package:baby_mile/import/utility.dart';
+import 'package:baby_mile/l10n/app_localizations.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_foundation/flutter_foundation.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:flutter_template/firebase_options.dart';
-import 'package:flutter_template/import/screen.dart';
-import 'package:flutter_template/import/utility.dart';
-import 'package:flutter_template/l10n/app_localizations.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:integration_test/integration_test.dart';

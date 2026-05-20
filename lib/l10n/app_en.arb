@@ -2,11 +2,11 @@
   "@@locale": "en",
   "productName": "Baby Mile",
   "welcomeMessage": "Welcome to {productName}!",
-  "descriptionMessage": "Visualize when everyone in your global team is awake. Find the best meeting time in one tap.",
-  "mainIntroductionScreen": "Where the world meets",
-  "mainIntroductionContent": "Overlap working hours of multiple time zones in colored bars and instantly see the best meeting time.",
-  "serviceBeginScreen": "Service Start",
-  "serviceBeginContent": "Set up your first global team",
+  "descriptionMessage": "Beautifully record your baby’s growth milestones with photos, from the first smile to the first step.",
+  "mainIntroductionScreen": "Capture every milestone",
+  "mainIntroductionContent": "Record first smiles, first steps, and more with photos. Track your baby’s growth beautifully by month.",
+  "serviceBeginScreen": "Let's get started",
+  "serviceBeginContent": "Add your baby and record your first milestone",
   "signUp": "Get Started",
   "close": "Close",
   "skip": "Skip",
@@ -123,5 +123,414 @@
   "aiConsentScreen": "AI Data & Privacy",
   "aiConsentContent": "This app uses Google Gemini AI (via Firebase) to power AI features. By proceeding, you agree to share relevant data with Google's AI service.",
   "aiConsentPrivacyLink": "View Privacy Policy",
-  "appName": "MangaTrack"
+  "appName": "Baby Mile",
+  "homeTabTitle": "Home",
+  "@homeTabTitle": {
+    "description": "ui string homeTabTitle"
+  },
+  "checklistTabTitle": "Checklist",
+  "@checklistTabTitle": {
+    "description": "ui string checklistTabTitle"
+  },
+  "timelineTabTitle": "Timeline",
+  "@timelineTabTitle": {
+    "description": "ui string timelineTabTitle"
+  },
+  "cardTabTitle": "Cards",
+  "@cardTabTitle": {
+    "description": "ui string cardTabTitle"
+  },
+  "settingsTabTitle": "Settings",
+  "@settingsTabTitle": {
+    "description": "ui string settingsTabTitle"
+  },
+  "homeGreeting": "{name}",
+  "@homeGreeting": {
+    "description": "ui string homeGreeting",
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "ageMonths": "{months} months",
+  "@ageMonths": {
+    "description": "ui string ageMonths",
+    "placeholders": {
+      "months": {
+        "type": "int"
+      }
+    }
+  },
+  "recentMilestones": "Recent Milestones",
+  "@recentMilestones": {
+    "description": "ui string recentMilestones"
+  },
+  "thisMonthChecklist": "Milestones to Check This Month",
+  "@thisMonthChecklist": {
+    "description": "ui string thisMonthChecklist"
+  },
+  "recordMilestone": "Record Milestone",
+  "@recordMilestone": {
+    "description": "ui string recordMilestone"
+  },
+  "makeCard": "Make a Card",
+  "@makeCard": {
+    "description": "ui string makeCard"
+  },
+  "noMilestonesYet": "No milestones recorded yet",
+  "@noMilestonesYet": {
+    "description": "ui string noMilestonesYet"
+  },
+  "selectPreset": "Choose a milestone",
+  "@selectPreset": {
+    "description": "ui string selectPreset"
+  },
+  "customMilestone": "Custom",
+  "@customMilestone": {
+    "description": "ui string customMilestone"
+  },
+  "milestoneTitleLabel": "Title",
+  "@milestoneTitleLabel": {
+    "description": "ui string milestoneTitleLabel"
+  },
+  "selectDate": "Date",
+  "@selectDate": {
+    "description": "ui string selectDate"
+  },
+  "addPhoto": "Add Photo",
+  "@addPhoto": {
+    "description": "ui string addPhoto"
+  },
+  "takePhoto": "Take Photo",
+  "@takePhoto": {
+    "description": "ui string takePhoto"
+  },
+  "chooseFromLibrary": "Choose from Library",
+  "@chooseFromLibrary": {
+    "description": "ui string chooseFromLibrary"
+  },
+  "memoLabel": "Note",
+  "@memoLabel": {
+    "description": "ui string memoLabel"
+  },
+  "memoHint": "Add a note (optional)",
+  "@memoHint": {
+    "description": "ui string memoHint"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "ui string save"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "ui string delete"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "ui string cancel"
+  },
+  "milestoneSaved": "Milestone saved",
+  "@milestoneSaved": {
+    "description": "ui string milestoneSaved"
+  },
+  "selectCategory": "All",
+  "@selectCategory": {
+    "description": "ui string selectCategory"
+  },
+  "categoryMotor": "Motor",
+  "@categoryMotor": {
+    "description": "ui string categoryMotor"
+  },
+  "categoryLanguage": "Language",
+  "@categoryLanguage": {
+    "description": "ui string categoryLanguage"
+  },
+  "categorySocial": "Social",
+  "@categorySocial": {
+    "description": "ui string categorySocial"
+  },
+  "categoryCognitive": "Cognitive",
+  "@categoryCognitive": {
+    "description": "ui string categoryCognitive"
+  },
+  "cardSizePortrait": "Portrait",
+  "@cardSizePortrait": {
+    "description": "ui string cardSizePortrait"
+  },
+  "cardSizeSquare": "Square",
+  "@cardSizeSquare": {
+    "description": "ui string cardSizeSquare"
+  },
+  "cardSizeLandscape": "Landscape",
+  "@cardSizeLandscape": {
+    "description": "ui string cardSizeLandscape"
+  },
+  "shareCard": "Share",
+  "@shareCard": {
+    "description": "ui string shareCard"
+  },
+  "export4k": "Export in 4K",
+  "@export4k": {
+    "description": "ui string export4k"
+  },
+  "cardNoData": "Record a milestone to create a card",
+  "@cardNoData": {
+    "description": "ui string cardNoData"
+  },
+  "onboardingNameTitle": "What's your baby's name?",
+  "@onboardingNameTitle": {
+    "description": "ui string onboardingNameTitle"
+  },
+  "onboardingNameHint": "Baby's name",
+  "@onboardingNameHint": {
+    "description": "ui string onboardingNameHint"
+  },
+  "onboardingBirthdayTitle": "When was your baby born?",
+  "@onboardingBirthdayTitle": {
+    "description": "ui string onboardingBirthdayTitle"
+  },
+  "onboardingFirstRecordTitle": "Record your first milestone",
+  "@onboardingFirstRecordTitle": {
+    "description": "ui string onboardingFirstRecordTitle"
+  },
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "ui string getStarted"
+  },
+  "notificationSetting": "Notifications",
+  "@notificationSetting": {
+    "description": "ui string notificationSetting"
+  },
+  "manageBabies": "Manage Children",
+  "@manageBabies": {
+    "description": "ui string manageBabies"
+  },
+  "addChild": "Add Child",
+  "@addChild": {
+    "description": "ui string addChild"
+  },
+  "milestoneUpcomingTitle": "A new milestone is coming!",
+  "@milestoneUpcomingTitle": {
+    "description": "ui string milestoneUpcomingTitle"
+  },
+  "milestoneUpcomingBody": "Your baby is reaching {months} months. Check the new milestones!",
+  "@milestoneUpcomingBody": {
+    "description": "ui string milestoneUpcomingBody",
+    "placeholders": {
+      "months": {
+        "type": "int"
+      }
+    }
+  },
+  "milestoneFirstGaze": "First eye contact",
+  "@milestoneFirstGaze": {
+    "description": "ms string milestoneFirstGaze"
+  },
+  "milestoneReactToSound": "Reacts to sound",
+  "@milestoneReactToSound": {
+    "description": "ms string milestoneReactToSound"
+  },
+  "milestoneFirstCryMeaning": "Different cries",
+  "@milestoneFirstCryMeaning": {
+    "description": "ms string milestoneFirstCryMeaning"
+  },
+  "milestoneGraspReflex": "Grasp reflex",
+  "@milestoneGraspReflex": {
+    "description": "ms string milestoneGraspReflex"
+  },
+  "milestoneFirstSmile": "First smile",
+  "@milestoneFirstSmile": {
+    "description": "ms string milestoneFirstSmile"
+  },
+  "milestoneLiftHead": "Lifts head",
+  "@milestoneLiftHead": {
+    "description": "ms string milestoneLiftHead"
+  },
+  "milestoneCooSound": "Cooing",
+  "@milestoneCooSound": {
+    "description": "ms string milestoneCooSound"
+  },
+  "milestoneFollowObject": "Follows objects",
+  "@milestoneFollowObject": {
+    "description": "ms string milestoneFollowObject"
+  },
+  "milestoneSocialSmile": "Social smile",
+  "@milestoneSocialSmile": {
+    "description": "ms string milestoneSocialSmile"
+  },
+  "milestoneHoldHeadSteady": "Holds head steady",
+  "@milestoneHoldHeadSteady": {
+    "description": "ms string milestoneHoldHeadSteady"
+  },
+  "milestoneLaughOutLoud": "Laughs out loud",
+  "@milestoneLaughOutLoud": {
+    "description": "ms string milestoneLaughOutLoud"
+  },
+  "milestoneReachForToy": "Reaches for toys",
+  "@milestoneReachForToy": {
+    "description": "ms string milestoneReachForToy"
+  },
+  "milestoneBabble": "Babbles",
+  "@milestoneBabble": {
+    "description": "ms string milestoneBabble"
+  },
+  "milestoneRecognizeParent": "Recognizes parents",
+  "@milestoneRecognizeParent": {
+    "description": "ms string milestoneRecognizeParent"
+  },
+  "milestoneRollover": "Rolls over",
+  "@milestoneRollover": {
+    "description": "ms string milestoneRollover"
+  },
+  "milestoneGrabObject": "Grabs objects",
+  "@milestoneGrabObject": {
+    "description": "ms string milestoneGrabObject"
+  },
+  "milestoneSitWithSupport": "Sits with support",
+  "@milestoneSitWithSupport": {
+    "description": "ms string milestoneSitWithSupport"
+  },
+  "milestoneRespondToName": "Responds to name",
+  "@milestoneRespondToName": {
+    "description": "ms string milestoneRespondToName"
+  },
+  "milestoneMouthObject": "Explores with mouth",
+  "@milestoneMouthObject": {
+    "description": "ms string milestoneMouthObject"
+  },
+  "milestoneFirstSolidFood": "First solid food",
+  "@milestoneFirstSolidFood": {
+    "description": "ms string milestoneFirstSolidFood"
+  },
+  "milestoneSitUnaided": "Sits unaided",
+  "@milestoneSitUnaided": {
+    "description": "ms string milestoneSitUnaided"
+  },
+  "milestoneCrawl": "Crawls",
+  "@milestoneCrawl": {
+    "description": "ms string milestoneCrawl"
+  },
+  "milestoneFirstTooth": "First tooth",
+  "@milestoneFirstTooth": {
+    "description": "ms string milestoneFirstTooth"
+  },
+  "milestoneSayMamaPapa": "Says mama/papa",
+  "@milestoneSayMamaPapa": {
+    "description": "ms string milestoneSayMamaPapa"
+  },
+  "milestoneWaveBye": "Waves bye-bye",
+  "@milestoneWaveBye": {
+    "description": "ms string milestoneWaveBye"
+  },
+  "milestonePassObject": "Passes object hand to hand",
+  "@milestonePassObject": {
+    "description": "ms string milestonePassObject"
+  },
+  "milestonePeekaboo": "Plays peekaboo",
+  "@milestonePeekaboo": {
+    "description": "ms string milestonePeekaboo"
+  },
+  "milestonePullToStand": "Pulls to stand",
+  "@milestonePullToStand": {
+    "description": "ms string milestonePullToStand"
+  },
+  "milestoneCruiseFurniture": "Cruises furniture",
+  "@milestoneCruiseFurniture": {
+    "description": "ms string milestoneCruiseFurniture"
+  },
+  "milestonePincerGrasp": "Pincer grasp",
+  "@milestonePincerGrasp": {
+    "description": "ms string milestonePincerGrasp"
+  },
+  "milestoneClapHands": "Claps hands",
+  "@milestoneClapHands": {
+    "description": "ms string milestoneClapHands"
+  },
+  "milestoneUnderstandNo": "Understands \"no\"",
+  "@milestoneUnderstandNo": {
+    "description": "ms string milestoneUnderstandNo"
+  },
+  "milestonePointAtThings": "Points at things",
+  "@milestonePointAtThings": {
+    "description": "ms string milestonePointAtThings"
+  },
+  "milestoneFirstSteps": "First steps",
+  "@milestoneFirstSteps": {
+    "description": "ms string milestoneFirstSteps"
+  },
+  "milestoneFirstWord": "First word",
+  "@milestoneFirstWord": {
+    "description": "ms string milestoneFirstWord"
+  },
+  "milestoneDrinkFromCup": "Drinks from cup",
+  "@milestoneDrinkFromCup": {
+    "description": "ms string milestoneDrinkFromCup"
+  },
+  "milestoneStackBlocks": "Stacks blocks",
+  "@milestoneStackBlocks": {
+    "description": "ms string milestoneStackBlocks"
+  },
+  "milestoneWalkWell": "Walks well",
+  "@milestoneWalkWell": {
+    "description": "ms string milestoneWalkWell"
+  },
+  "milestoneUseSpoon": "Uses a spoon",
+  "@milestoneUseSpoon": {
+    "description": "ms string milestoneUseSpoon"
+  },
+  "milestoneFollowInstruction": "Follows instructions",
+  "@milestoneFollowInstruction": {
+    "description": "ms string milestoneFollowInstruction"
+  },
+  "milestoneRun": "Runs",
+  "@milestoneRun": {
+    "description": "ms string milestoneRun"
+  },
+  "milestoneTwoWordPhrase": "Two-word phrases",
+  "@milestoneTwoWordPhrase": {
+    "description": "ms string milestoneTwoWordPhrase"
+  },
+  "milestoneKickBall": "Kicks a ball",
+  "@milestoneKickBall": {
+    "description": "ms string milestoneKickBall"
+  },
+  "milestoneScribble": "Scribbles",
+  "@milestoneScribble": {
+    "description": "ms string milestoneScribble"
+  },
+  "milestoneNameBodyParts": "Names body parts",
+  "@milestoneNameBodyParts": {
+    "description": "ms string milestoneNameBodyParts"
+  },
+  "milestonePretendPlay": "Pretend play",
+  "@milestonePretendPlay": {
+    "description": "ms string milestonePretendPlay"
+  },
+  "milestoneJump": "Jumps",
+  "@milestoneJump": {
+    "description": "ms string milestoneJump"
+  },
+  "milestoneShortSentence": "Short sentences",
+  "@milestoneShortSentence": {
+    "description": "ms string milestoneShortSentence"
+  },
+  "milestoneNameColors": "Names colors",
+  "@milestoneNameColors": {
+    "description": "ms string milestoneNameColors"
+  },
+  "milestoneSortShapes": "Sorts shapes",
+  "@milestoneSortShapes": {
+    "description": "ms string milestoneSortShapes"
+  },
+  "milestonePottyTraining": "Potty training",
+  "@milestonePottyTraining": {
+    "description": "ms string milestonePottyTraining"
+  },
+  "milestonePlayWithOthers": "Plays with others",
+  "@milestonePlayWithOthers": {
+    "description": "ms string milestonePlayWithOthers"
+  },
+  "milestoneClimbStairs": "Climbs stairs",
+  "@milestoneClimbStairs": {
+    "description": "ms string milestoneClimbStairs"
+  }
 }

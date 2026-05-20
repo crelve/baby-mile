@@ -5,6 +5,8 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:share_plus/share_plus.dart';
 
 import '../../import/gen.dart';
+import '../../import/model.dart';
+import '../../import/provider.dart';
 import '../../import/route.dart';
 import '../../import/utility.dart';
 import '../../l10n/app_localizations.dart';
@@ -30,6 +32,20 @@ class SettingScreen extends HookConsumerWidget {
         controller: scrollController,
         children: [
           hSpace(height: 24),
+          // 子供プロフィールセクション
+          IOSSettingsSection(
+            children: [
+              IOSSettingsTile(
+                title: l10n.manageBabies,
+                icon: Icons.child_care_rounded,
+                iconColor: ColorName.appleBlue,
+                onTap: () {
+                  _showBabyManager(context, ref);
+                },
+              ),
+            ],
+          ),
+          hSpace(height: 32),
           // アプリ情報セクション
           IOSSettingsSection(
             children: [
@@ -323,6 +339,79 @@ class SettingScreen extends HookConsumerWidget {
           ),
         ),
       ),
+    );
+  }
+
+  /// 子供プロフィール管理ボトムシートを表示する
+  void _showBabyManager(BuildContext context, WidgetRef ref) {
+    final l10n = AppLocalizations.of(context)!;
+    showModalBottomSheet<void>(
+      context: context,
+      backgroundColor: AppleSemanticColors.secondaryGroupedBackground(context),
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(12)),
+      ),
+      builder: (sheetContext) {
+        return SafeArea(
+          child: Consumer(
+            builder: (context, ref, _) {
+              final babies = ref.watch(childProfileProvider).value ?? <Baby>[];
+              final selected = ref.watch(selectedBabyProvider);
+              final theme = ref.watch(appThemeProvider);
+              return Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  hSpace(height: 16),
+                  ThemeText(
+                    text: l10n.manageBabies,
+                    color: AppleSemanticColors.label(context),
+                    style: theme.textTheme.h50.bold(),
+                  ),
+                  hSpace(height: 8),
+                  for (final baby in babies)
+                    ListTile(
+                      leading: Icon(
+                        baby.id == selected?.id
+                            ? Icons.check_circle_rounded
+                            : Icons.child_care_rounded,
+                        color: baby.id == selected?.id
+                            ? theme.appColors.primary
+                            : AppleSemanticColors.secondaryLabel(context),
+                      ),
+                      title: ThemeText(
+                        text: baby.name,
+                        color: AppleSemanticColors.label(context),
+                        style: theme.textTheme.h40,
+                      ),
+                      onTap: () {
+                        ref
+                            .read(childProfileProvider.notifier)
+                            .selectBaby(baby.id);
+                        Navigator.of(sheetContext).pop();
+                      },
+                    ),
+                  ListTile(
+                    leading: Icon(
+                      Icons.add_circle_outline_rounded,
+                      color: theme.appColors.primary,
+                    ),
+                    title: ThemeText(
+                      text: l10n.addChild,
+                      color: theme.appColors.primary,
+                      style: theme.textTheme.h40,
+                    ),
+                    onTap: () {
+                      Navigator.of(sheetContext).pop();
+                      const OnboardingScreenRoute().push<void>(context);
+                    },
+                  ),
+                  hSpace(height: 8),
+                ],
+              );
+            },
+          ),
+        );
+      },
     );
   }
 }

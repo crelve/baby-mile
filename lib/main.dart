@@ -164,14 +164,14 @@ Future<bool> _initializeRevenueCat() async {
     await Purchases.setLogLevel(LogLevel.info);
     await Purchases.configure(PurchasesConfiguration(apiKey));
     logger.i('RevenueCat initialized successfully');
-      // 匿名認証でFirebase UIDをRevenueCatに紐付け（デバイス間で購入履歴を同期）
-      final credential = await FirebaseAuth.instance.signInAnonymously();
-      if (credential.user != null) {
-        await SubscriptionService.logIn(credential.user!.uid);
-        logger.i(
-          'RevenueCat linked with Firebase UID: ${credential.user!.uid}',
-        );
-      }
+    // 匿名認証でFirebase UIDをRevenueCatに紐付け（デバイス間で購入履歴を同期）
+    final credential = await FirebaseAuth.instance.signInAnonymously();
+    if (credential.user != null) {
+      await SubscriptionService.logIn(credential.user!.uid);
+      logger.i(
+        'RevenueCat linked with Firebase UID: ${credential.user!.uid}',
+      );
+    }
     return true;
   } on Exception catch (e) {
     logger.e('Failed to initialize RevenueCat', error: e);

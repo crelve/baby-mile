@@ -2,7 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_foundation/flutter_foundation.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
+import '../import/model.dart';
+import '../import/provider.dart';
 import '../import/screen.dart';
+import '../import/service.dart';
 import '../l10n/app_localizations.dart';
 
 /// ベース画面
@@ -32,14 +35,21 @@ class BaseScreen extends HookConsumerWidget {
     useAppLaunchRatingDialog(context: context, ref: ref);
     useAppOpenAdOnResume(context: context, ref: ref);
 
-    ref.listen<AppLifecycleState>(appLifecycleStateProvider, (
-      _,
-      next,
-    ) async {
-      if (next == AppLifecycleState.resumed) {
-        await baseStateNotifier.onResumed(context: context);
-      }
-    });
+    ref
+      // 選択中のベビーが確定したら月齢節目通知を再スケジュールする（M3 / F10）
+      ..listen<Baby?>(selectedBabyProvider, (previous, next) {
+        if (next == null || previous?.id == next.id) return;
+        MilestoneNotificationService().scheduleMilestoneNotifications(
+          baby: next,
+          upcomingTitle: l10n.appName,
+          bodyBuilder: (months) => l10n.thisMonthChecklist,
+        );
+      })
+      ..listen<AppLifecycleState>(appLifecycleStateProvider, (_, next) async {
+        if (next == AppLifecycleState.resumed) {
+          await baseStateNotifier.onResumed(context: context);
+        }
+      });
 
     return Scaffold(
       body: SafeArea(
@@ -50,10 +60,10 @@ class BaseScreen extends HookConsumerWidget {
               child: IndexedStack(
                 index: base.selectIndex,
                 children: [
-                  SettingScreen(scrollController: scrollControllers[0]),
-                  SettingScreen(scrollController: scrollControllers[1]),
-                  SettingScreen(scrollController: scrollControllers[2]),
-                  SettingScreen(scrollController: scrollControllers[3]),
+                  HomeScreen(scrollController: scrollControllers[0]),
+                  ChecklistScreen(scrollController: scrollControllers[1]),
+                  CardScreen(scrollController: scrollControllers[2]),
+                  TimelineScreen(scrollController: scrollControllers[3]),
                   SettingScreen(scrollController: scrollControllers[4]),
                 ],
               ),
@@ -80,27 +90,27 @@ class BaseScreen extends HookConsumerWidget {
           BottomNavigationBarItem(
             icon: const Icon(Icons.home_outlined),
             activeIcon: const Icon(Icons.home),
-            label: l10n.homeTab,
+            label: l10n.homeTabTitle,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.explore_outlined),
-            activeIcon: const Icon(Icons.explore),
-            label: l10n.exploreTab,
+            icon: const Icon(Icons.checklist_outlined),
+            activeIcon: const Icon(Icons.checklist),
+            label: l10n.checklistTabTitle,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.favorite_outline),
-            activeIcon: const Icon(Icons.favorite),
-            label: l10n.favoriteTab,
+            icon: const Icon(Icons.style_outlined),
+            activeIcon: const Icon(Icons.style),
+            label: l10n.cardTabTitle,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.person_outline),
-            activeIcon: const Icon(Icons.person),
-            label: l10n.profileTab,
+            icon: const Icon(Icons.timeline_outlined),
+            activeIcon: const Icon(Icons.timeline),
+            label: l10n.timelineTabTitle,
           ),
           BottomNavigationBarItem(
             icon: const Icon(Icons.settings_outlined),
             activeIcon: const Icon(Icons.settings),
-            label: l10n.settingsTab,
+            label: l10n.settingsTabTitle,
           ),
         ],
       ),

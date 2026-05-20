@@ -343,5 +343,308 @@ class AppLocalizationsHr extends AppLocalizations {
   String get aiConsentPrivacyLink => 'Prikaži pravila o privatnosti';
 
   @override
-  String get appName => 'MangaTrack';
+  String get appName => 'Baby Mile';
+
+  @override
+  String get homeTabTitle => 'Početna';
+
+  @override
+  String get checklistTabTitle => 'Popis';
+
+  @override
+  String get timelineTabTitle => 'Vremenska crta';
+
+  @override
+  String get cardTabTitle => 'Kartice';
+
+  @override
+  String get settingsTabTitle => 'Postavke';
+
+  @override
+  String homeGreeting(Object name) {
+    return '$name';
+  }
+
+  @override
+  String ageMonths(int months) {
+    return '$months mj.';
+  }
+
+  @override
+  String get recentMilestones => 'Nedavne prekretnice';
+
+  @override
+  String get thisMonthChecklist => 'Provjeri ovaj mjesec';
+
+  @override
+  String get recordMilestone => 'Zabilježi prekretnicu';
+
+  @override
+  String get makeCard => 'Napravi karticu';
+
+  @override
+  String get noMilestonesYet => 'Još nema prekretnica';
+
+  @override
+  String get selectPreset => 'Odaberi prekretnicu';
+
+  @override
+  String get customMilestone => 'Prilagođeno';
+
+  @override
+  String get milestoneTitleLabel => 'Naslov';
+
+  @override
+  String get selectDate => 'Datum';
+
+  @override
+  String get addPhoto => 'Dodaj fotografiju';
+
+  @override
+  String get takePhoto => 'Snimi fotografiju';
+
+  @override
+  String get chooseFromLibrary => 'Odaberi iz galerije';
+
+  @override
+  String get memoLabel => 'Bilješka';
+
+  @override
+  String get memoHint => 'Dodaj bilješku (opcionalno)';
+
+  @override
+  String get save => 'Spremi';
+
+  @override
+  String get delete => 'Izbriši';
+
+  @override
+  String get cancel => 'Odustani';
+
+  @override
+  String get milestoneSaved => 'Prekretnica spremljena';
+
+  @override
+  String get selectCategory => 'Sve';
+
+  @override
+  String get categoryMotor => 'Motorika';
+
+  @override
+  String get categoryLanguage => 'Jezik';
+
+  @override
+  String get categorySocial => 'Društveno';
+
+  @override
+  String get categoryCognitive => 'Spoznajno';
+
+  @override
+  String get cardSizePortrait => 'Uspravno';
+
+  @override
+  String get cardSizeSquare => 'Kvadrat';
+
+  @override
+  String get cardSizeLandscape => 'Vodoravno';
+
+  @override
+  String get shareCard => 'Podijeli';
+
+  @override
+  String get export4k => 'Izvezi u 4K';
+
+  @override
+  String get cardNoData => 'Zabilježi prekretnicu za karticu';
+
+  @override
+  String get onboardingNameTitle => 'Kako se zove vaša beba?';
+
+  @override
+  String get onboardingNameHint => 'Ime bebe';
+
+  @override
+  String get onboardingBirthdayTitle => 'Kada je beba rođena?';
+
+  @override
+  String get onboardingFirstRecordTitle => 'Zabilježi prvu prekretnicu';
+
+  @override
+  String get getStarted => 'Započni';
+
+  @override
+  String get notificationSetting => 'Obavijesti';
+
+  @override
+  String get manageBabies => 'Upravljanje djecom';
+
+  @override
+  String get addChild => 'Dodaj dijete';
+
+  @override
+  String get milestoneUpcomingTitle => 'Stiže nova prekretnica!';
+
+  @override
+  String milestoneUpcomingBody(int months) {
+    return 'Vaša beba navršava $months mj. Provjerite nove prekretnice!';
+  }
+
+  @override
+  String get milestoneFirstGaze => 'First eye contact';
+
+  @override
+  String get milestoneReactToSound => 'Reacts to sound';
+
+  @override
+  String get milestoneFirstCryMeaning => 'Different cries';
+
+  @override
+  String get milestoneGraspReflex => 'Grasp reflex';
+
+  @override
+  String get milestoneFirstSmile => 'First smile';
+
+  @override
+  String get milestoneLiftHead => 'Lifts head';
+
+  @override
+  String get milestoneCooSound => 'Cooing';
+
+  @override
+  String get milestoneFollowObject => 'Follows objects';
+
+  @override
+  String get milestoneSocialSmile => 'Social smile';
+
+  @override
+  String get milestoneHoldHeadSteady => 'Holds head steady';
+
+  @override
+  String get milestoneLaughOutLoud => 'Laughs out loud';
+
+  @override
+  String get milestoneReachForToy => 'Reaches for toys';
+
+  @override
+  String get milestoneBabble => 'Babbles';
+
+  @override
+  String get milestoneRecognizeParent => 'Recognizes parents';
+
+  @override
+  String get milestoneRollover => 'Rolls over';
+
+  @override
+  String get milestoneGrabObject => 'Grabs objects';
+
+  @override
+  String get milestoneSitWithSupport => 'Sits with support';
+
+  @override
+  String get milestoneRespondToName => 'Responds to name';
+
+  @override
+  String get milestoneMouthObject => 'Explores with mouth';
+
+  @override
+  String get milestoneFirstSolidFood => 'First solid food';
+
+  @override
+  String get milestoneSitUnaided => 'Sits unaided';
+
+  @override
+  String get milestoneCrawl => 'Crawls';
+
+  @override
+  String get milestoneFirstTooth => 'First tooth';
+
+  @override
+  String get milestoneSayMamaPapa => 'Says mama/papa';
+
+  @override
+  String get milestoneWaveBye => 'Waves bye-bye';
+
+  @override
+  String get milestonePassObject => 'Passes object hand to hand';
+
+  @override
+  String get milestonePeekaboo => 'Plays peekaboo';
+
+  @override
+  String get milestonePullToStand => 'Pulls to stand';
+
+  @override
+  String get milestoneCruiseFurniture => 'Cruises furniture';
+
+  @override
+  String get milestonePincerGrasp => 'Pincer grasp';
+
+  @override
+  String get milestoneClapHands => 'Claps hands';
+
+  @override
+  String get milestoneUnderstandNo => 'Understands \"no\"';
+
+  @override
+  String get milestonePointAtThings => 'Points at things';
+
+  @override
+  String get milestoneFirstSteps => 'First steps';
+
+  @override
+  String get milestoneFirstWord => 'First word';
+
+  @override
+  String get milestoneDrinkFromCup => 'Drinks from cup';
+
+  @override
+  String get milestoneStackBlocks => 'Stacks blocks';
+
+  @override
+  String get milestoneWalkWell => 'Walks well';
+
+  @override
+  String get milestoneUseSpoon => 'Uses a spoon';
+
+  @override
+  String get milestoneFollowInstruction => 'Follows instructions';
+
+  @override
+  String get milestoneRun => 'Runs';
+
+  @override
+  String get milestoneTwoWordPhrase => 'Two-word phrases';
+
+  @override
+  String get milestoneKickBall => 'Kicks a ball';
+
+  @override
+  String get milestoneScribble => 'Scribbles';
+
+  @override
+  String get milestoneNameBodyParts => 'Names body parts';
+
+  @override
+  String get milestonePretendPlay => 'Pretend play';
+
+  @override
+  String get milestoneJump => 'Jumps';
+
+  @override
+  String get milestoneShortSentence => 'Short sentences';
+
+  @override
+  String get milestoneNameColors => 'Names colors';
+
+  @override
+  String get milestoneSortShapes => 'Sorts shapes';
+
+  @override
+  String get milestonePottyTraining => 'Potty training';
+
+  @override
+  String get milestonePlayWithOthers => 'Plays with others';
+
+  @override
+  String get milestoneClimbStairs => 'Climbs stairs';
 }

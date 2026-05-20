@@ -19,8 +19,8 @@ class WalkThroughStateNotifier extends WalkThroughStateNotifierBase {
 
   @override
   void onComplete(BuildContext context) {
-    const BaseScreenRoute().go(context);
-    // ペイウォールは base_screen.dart の useLaunchCountPaywall（起動3回目）で表示
-    // ウォークスルー直後の強制表示はユーザー体験を損なうため使用しない
+    // ウォークスルー完了後は子供プロフィール登録（オンボーディング）へ誘導する。
+    // 登録完了後にオンボーディング画面側で BaseScreen へ遷移する。
+    const OnboardingScreenRoute().go(context);
   }
 }

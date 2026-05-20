@@ -27,6 +27,17 @@ class BaseScreenRoute extends GoRouteData with $BaseScreenRoute {
   Widget build(BuildContext context, GoRouterState state) => const BaseScreen();
 }
 
+@TypedGoRoute<OnboardingScreenRoute>(path: '/onboarding')
+/// オンボーディング画面への遷移データクラス
+class OnboardingScreenRoute extends GoRouteData with $OnboardingScreenRoute {
+  /// オンボーディング画面への遷移データクラス
+  const OnboardingScreenRoute();
+
+  @override
+  Widget build(BuildContext context, GoRouterState state) =>
+      const OnboardingScreen();
+}
+
 @TypedGoRoute<PushScreenRoute>(path: '/push')
 /// Push通知機能についての案内ページ(ウォークスルーの構成ページ)への遷移データクラス
 class PushScreenRoute extends GoRouteData with $PushScreenRoute {
