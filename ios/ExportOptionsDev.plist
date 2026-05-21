@@ -14,8 +14,8 @@
 	<string>Apple Development</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>YOUR_BUNDLE_ID.dev</key>
-		<string>match Development YOUR_BUNDLE_ID.dev</string>
+		<key>baby.mile.dev</key>
+		<string>match Development baby.mile.dev</string>
 	</dict>
 	<key>stripSwiftSymbols</key>
 	<true/>
