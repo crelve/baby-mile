@@ -25,7 +25,7 @@
 - [x] `/release:step:10-appstore-metadata` - メタデータ生成
 - [ ] `/release:step:11-monetization-complete` - AdMob設定
 - [x] `/release:step:12-ios-certificate-setup` - iOS証明書
-- [ ] `/release:step:13-revenuecat-setup` - RevenueCat IA
+- [x] `/release:step:13-revenuecat-setup` - RevenueCat IA
 - [ ] `/release:step:14-release-legal` - 法的要件整備
 - [ ] `/release:step:15-run-app` - アプリ起動確認
 - [ ] `/release:step:16a-ios-screenshot` - スクリーンショット生成
