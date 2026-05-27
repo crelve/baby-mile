@@ -23,7 +23,7 @@
 - [x] `/release:step:09-quality-rules-check` - 品質ルール確認
 - [x] `/release:step:09b-infoplist-check` - InfoPlist.strings パーミッション確認・修正
 - [x] `/release:step:10-appstore-metadata` - メタデータ生成
-- [ ] `/release:step:11-monetization-complete` - AdMob設定
+- [x] `/release:step:11-monetization-complete` - AdMob設定
 - [x] `/release:step:12-ios-certificate-setup` - iOS証明書
 - [x] `/release:step:13-revenuecat-setup` - RevenueCat IA
 - [ ] `/release:step:14-release-legal` - 法的要件整備
