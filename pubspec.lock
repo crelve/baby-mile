@@ -640,7 +640,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: d0e9700e658150868d93341c1f8b48fb5d3b1254
+      resolved-ref: "8abd7a96ca0ef65baa4f570cd7aa74b97328c656"
       url: "https://github.com/crelve/flutter_foundation.git"
     source: git
     version: "1.1.0"
@@ -1545,10 +1545,10 @@ packages:
     dependency: "direct main"
     description:
       name: share_plus
-      sha256: "14c8860d4de93d3a7e53af51bff479598c4e999605290756bbbe45cf65b37840"
+      sha256: "223873d106614442ea6f20db5a038685cc5b32a2fba81cdecaefbbae0523f7fa"
       url: "https://pub.dev"
     source: hosted
-    version: "12.0.1"
+    version: "12.0.2"
   share_plus_platform_interface:
     dependency: transitive
     description:
