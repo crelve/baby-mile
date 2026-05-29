@@ -640,7 +640,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "6cd8c4962337fc810f96528cfcd83110778d1932"
+      resolved-ref: "607c3d9acd009604a9ab024ce9a9a0f2e84f94a1"
       url: "https://github.com/crelve/flutter_foundation.git"
     source: git
     version: "1.1.0"
@@ -1385,10 +1385,10 @@ packages:
     dependency: transitive
     description:
       name: permission_handler
-      sha256: bc917da36261b00137bbc8896bf1482169cd76f866282368948f032c8c1caae1
+      sha256: ca045d03615023c08ccdb297aad46a9198193666039ddd36d4d85fd0b1864b98
       url: "https://pub.dev"
     source: hosted
-    version: "12.0.1"
+    version: "12.0.2"
   permission_handler_android:
     dependency: transitive
     description:
