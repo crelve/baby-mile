@@ -640,7 +640,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "8abd7a96ca0ef65baa4f570cd7aa74b97328c656"
+      resolved-ref: d89afd62381bee58c1c10178471e7ec8999de7f6
       url: "https://github.com/crelve/flutter_foundation.git"
     source: git
     version: "1.1.0"
